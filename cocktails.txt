@@ -1,0 +1,11868 @@
+# Cocktail #0
+Sambuca
+Bailey's irish cream
+White Creme de Menthe
+Crème
+
+# Cocktail #1
+Vodka
+Triple sec
+Tequila
+Melon liqueur
+Mountain Dew
+
+# Cocktail #2
+Jus de cranberry
+Eau pétillante
+
+# Cocktail #3
+Gin
+Jus de citron
+maraschino liqueur
+
+# Cocktail #4
+Gin
+Eau pétillante
+Sucre en poudre
+Orange spiral
+Zeste de citron
+
+# Cocktail #5
+Rhum léger
+Jus de pamplemousse
+Bitters
+
+# Cocktail #6
+Tequila
+Apple cider
+
+# Cocktail #7
+Vodka
+Jus de tomate
+Jus de citron
+Worcestershire sauce
+Tabasco sauce
+Citron vert
+
+# Cocktail #8
+Gin
+Vodka
+Lillet Blanc
+
+# Cocktail #9
+Vodka
+Kahlua
+Bailey's irish cream
+
+# Cocktail #10
+Prosecco
+Campari
+Eau pétillante
+
+# Cocktail #11
+Rhum léger
+Jus d'ananas
+Maraschino liqueur
+Grenadine
+Maraschino cherry
+
+# Cocktail #12
+Rhum léger
+Jus de citron
+Sucre
+Grenadine
+Maraschino cherry
+
+# Cocktail #13
+Vodka
+Creme de Cassis
+Sugar Syrup
+Jus de citron
+
+# Cocktail #14
+Rhum léger
+Citron vert
+Coca-Cola
+
+# Cocktail #15
+Vodka
+Tonic water
+
+# Cocktail #16
+Gin
+Rhum léger
+Tequila
+Triple sec
+Jus de citron
+
+# Cocktail #17
+Rhum léger
+Jus de citron vert
+Menthe
+Sucre
+
+# Cocktail #18
+Blended whiskey
+Citron
+Sucre en poudre
+Citron
+Cerise
+
+# Cocktail #19
+Vodka
+Tonic water
+
+# Cocktail #20
+Vin rouge
+Sucre
+Eau
+
+# Cocktail #21
+Gin
+Sweet Vermouth
+Brandy
+
+# Cocktail #22
+Fruit punch
+Sprite
+Tequila
+Rhum ambré 151 Proof
+
+# Cocktail #23
+Scotch
+Amaretto
+
+# Cocktail #24
+Bourbon
+Jus de citron
+Sucre
+Eau pétillante
+Citron
+Brandy
+Maraschino cherry
+Orange
+
+# Cocktail #25
+Eau
+Sucre
+Café
+Vanilla
+Vodka
+Caramel coloring
+
+# Cocktail #26
+Rhum ambré 151 Proof
+Wild Turkey
+
+# Cocktail #27
+Vodka
+Peach schnapps
+Jus de cranberry
+Jus de pamplemousse
+
+# Cocktail #28
+Sucre
+Eau
+Jus de citron
+Bourbon
+Zeste de citron
+
+# Cocktail #29
+Tequila
+Tabasco sauce
+
+# Cocktail #30
+Gin
+Creme de Cacao
+
+# Cocktail #31
+Kahlua
+Brandy
+Café
+
+# Cocktail #32
+Gin
+Jus de citron
+Sucre
+Glaçons
+
+# Cocktail #33
+Vodka
+Coffee liqueur
+Crème légère
+
+# Cocktail #34
+Vodka
+Jus d'orange
+
+# Cocktail #35
+Vodka
+Iced tea
+Jus de citron
+
+# Cocktail #36
+Gin
+7-Up
+Jus de citron
+
+# Cocktail #37
+Gin
+Maraschino liqueur
+Jus de citron
+Orange bitters
+Cerise
+
+# Cocktail #38
+Gin
+Grenadine
+Crème légère
+Blanc d'oeuf
+
+# Cocktail #39
+Triple sec
+Apricot brandy
+Jus de citron
+
+# Cocktail #40
+Vodka
+Kahlua
+Coca-Cola
+Guinness stout
+
+# Cocktail #41
+Vodka
+Amaretto
+Sloe gin
+Jus de citron
+
+# Cocktail #42
+Zima
+Chambord raspberry liqueur
+
+# Cocktail #43
+Gin
+Maraschino liqueur
+Orange bitters
+
+# Cocktail #44
+Vodka
+Chambord raspberry liqueur
+Peachtree schnapps
+Jus de cranberry
+
+# Cocktail #45
+Gin
+Dry Vermouth
+Bitters
+Maraschino liqueur
+Maraschino cherry
+
+# Cocktail #46
+Lemonade
+Eau
+Vodka
+
+# Cocktail #47
+Gin
+Vodka
+Grenadine
+Jus d'orange
+Sour mix
+
+# Cocktail #48
+Gin
+Eau pétillante
+Sucre
+Menthe
+Orange
+Cerise
+
+# Cocktail #49
+Vodka
+Lemonade
+Eau
+Vodka
+
+# Cocktail #50
+Amaretto
+Citron vert
+
+# Cocktail #51
+Gin
+Jus de citron
+maraschino liqueur
+
+# Cocktail #52
+Gin
+Citron
+Sucre en poudre
+Blanc d'oeuf
+Citron
+Cerise
+
+# Cocktail #53
+Strawberry schnapps
+Jus d'orange
+Jus de cranberry
+
+# Cocktail #54
+Vodka
+Amaretto
+
+# Cocktail #55
+Rhum brun
+Citron vert
+Coca-Cola
+
+# Cocktail #56
+Scotch
+Vin
+
+# Cocktail #57
+Sweet Vermouth
+Dry Vermouth
+Eau pétillante
+
+# Cocktail #58
+Sherry
+Sucre en poudre
+Oeuf
+Milk
+Noix de muscade
+
+# Cocktail #59
+Absolut Vodka
+Jus de cranberry
+Ginger ale
+Glaçons
+
+# Cocktail #60
+Gin
+Jus de citron
+Sucre
+Eau pétillante
+Citron
+Brandy
+Maraschino cherry
+Orange
+
+# Cocktail #61
+Gin
+Orange bitters
+Orange
+Cerise
+
+# Cocktail #62
+Gin
+Triple sec
+Jus d'ananas
+Grenadine
+Ananas
+
+# Cocktail #63
+Vodka
+Banana liqueur
+Jus d'orange
+Peach schnapps
+
+# Cocktail #64
+Rhum léger
+Triple sec
+Jus de citron vert
+Sel
+
+# Cocktail #65
+Kiwi liqueur
+Bitter lemon
+Glaçons
+
+# Cocktail #66
+Scotch
+Half-and-half
+Condensed milk
+Coconut syrup
+Chocolate syrup
+
+# Cocktail #67
+Vodka
+Chambord raspberry liqueur
+Peachtree schnapps
+Jus de cranberry
+
+# Cocktail #68
+Amaretto
+Rhum
+Kool-Aid
+
+# Cocktail #69
+Rhum léger
+Jus de pamplemousse
+Bitters
+
+# Cocktail #70
+Gin
+Sweet Vermouth
+Eau pétillante
+Zeste de citron
+
+# Cocktail #71
+Gin
+Campari
+Sweet Vermouth
+
+# Cocktail #72
+Vodka
+Kahlua
+Coca-Cola
+Guinness stout
+
+# Cocktail #73
+Gin
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #74
+Vodka
+Dry Vermouth
+Olive Brine
+Citron
+Olive
+
+# Cocktail #75
+Apricot brandy
+Jus d'orange
+Sweet and sour
+
+# Cocktail #76
+Vodka
+Raspberry Liqueur
+Jus d'ananas
+
+# Cocktail #77
+Gin
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #78
+Brandy
+Rhum léger
+Triple sec
+Banana
+Jus de citron vert
+Sucre
+Cerise
+Glaçons
+
+# Cocktail #79
+Kahlua
+Vodka
+Chocolate ice-cream
+
+# Cocktail #80
+Orange bitters
+Gin
+Yellow Chartreuse
+Zeste de citron
+
+# Cocktail #81
+Gin
+Triple Sec
+Jus de citron
+
+# Cocktail #82
+Vodka
+Banana liqueur
+Jus d'orange
+Peach schnapps
+
+# Cocktail #83
+Rhum léger
+Jus de citron vert
+Sucre en poudre
+Strawberries
+
+# Cocktail #84
+Tequila
+Blue Curacao
+Jus de citron vert
+Sel
+
+# Cocktail #85
+Gin
+Triple sec
+Jus d'ananas
+Grenadine
+Ananas
+
+# Cocktail #86
+Rhum léger
+Jus d'orange
+
+# Cocktail #87
+Amaretto
+White Creme de Menthe
+
+# Cocktail #88
+Gin
+Grenadine
+Crème légère
+Blanc d'oeuf
+
+# Cocktail #89
+Orange bitters
+Gin
+Yellow Chartreuse
+Zeste de citron
+
+# Cocktail #90
+Gin
+Dry Vermouth
+Olive
+
+# Cocktail #91
+Gin
+Creme de Cacao
+Crème légère
+
+# Cocktail #92
+Brandy
+Creme de Cacao
+Crème légère
+
+# Cocktail #93
+Gin
+Grenadine
+Citron
+
+# Cocktail #94
+Rhum léger
+Triple sec
+Jus de citron vert
+Sucre
+Cerise
+
+# Cocktail #95
+Vodka
+Amaretto
+Sloe gin
+Triple sec
+Jus de cranberry
+
+# Cocktail #96
+Scotch
+Citron vert
+Sucre en poudre
+Citron
+Cerise
+
+# Cocktail #97
+Rhum léger
+Sweet Vermouth
+Citron
+Sucre en poudre
+Eau pétillante
+
+# Cocktail #98
+Vodka
+Sucre
+Eau
+Apple
+Orange
+Citron vert
+Citron
+Fresca
+
+# Cocktail #99
+Gin
+Sweet Vermouth
+Jus d'orange
+Angostura Bitters
+
+# Cocktail #100
+Rhum léger
+Triple sec
+Banana
+Jus de citron vert
+Sucre
+Cerise
+
+# Cocktail #101
+Bailey's irish cream
+Kahlua
+Sambuca
+Blue Curacao
+Bailey's irish cream
+
+# Cocktail #102
+Gin
+Triple sec
+Jus d'ananas
+Grenadine
+Ananas
+
+# Cocktail #103
+Amaretto
+Creme de Cacao
+Crème légère
+Noix de muscade
+
+# Cocktail #104
+Gin
+Dry Vermouth
+Olive
+
+# Cocktail #105
+Café
+Grain alcohol
+
+# Cocktail #106
+Vodka
+Citron vert
+Angostura bitters
+Tonic water
+Glaçons
+
+# Cocktail #107
+Eau
+Sucre
+Bourbon
+Orange
+Maraschino cherry
+
+# Cocktail #108
+Gin
+Grand Marnier
+
+# Cocktail #109
+Gin
+Jus de citron
+Sucre
+Eau pétillante
+Maraschino cherry
+Orange
+
+# Cocktail #110
+Kahlua
+Sambuca
+
+# Cocktail #111
+Bailey's irish cream
+White Creme de Menthe
+Crème
+
+# Cocktail #112
+Vodka
+Tequila
+Rhum léger
+Gin
+Tequila
+Citron
+Sucre en poudre
+Eau pétillante
+
+# Cocktail #113
+Vodka
+Amaretto
+
+# Cocktail #114
+Vodka
+Pisang Ambon
+Jus de pomme
+Jus de citron
+Lemonade
+
+# Cocktail #115
+Brandy
+Citron
+Sucre en poudre
+Eau pétillante
+
+# Cocktail #116
+Cognac
+Cointreau
+Jus de citron
+
+# Cocktail #117
+Lemonade
+Eau
+Vodka
+
+# Cocktail #118
+Gin
+Grenadine
+Crème légère
+Blanc d'oeuf
+
+# Cocktail #119
+Sweet Vermouth
+Dry Vermouth
+Bitters
+Maraschino liqueur
+Maraschino cherry
+
+# Cocktail #120
+Rhum léger
+Apricot brandy
+Triple sec
+Citron vert
+Citron vert
+
+# Cocktail #121
+Vodka
+Jus de citron vert
+Ginger ale
+
+# Cocktail #122
+Café
+Jack Daniels
+Amaretto
+Whipped cream
+
+# Cocktail #123
+Grenadine
+Kahlua
+Bailey's irish cream
+Frangelico
+Café
+Crème
+
+# Cocktail #124
+Amaretto
+Bailey's irish cream
+Cognac
+
+# Cocktail #125
+Kiwi liqueur
+Bitter lemon
+Glaçons
+
+# Cocktail #126
+Prosecco
+Campari
+Eau pétillante
+
+# Cocktail #127
+Gin
+Triple sec
+Jus d'ananas
+
+# Cocktail #128
+Sweet Vermouth
+Gin
+Bitters
+Zeste de citron
+
+# Cocktail #129
+Vodka
+Rhum Malibu
+Gold tequila
+Jus d'orange
+Jus d'ananas
+Jus de cranberry
+
+# Cocktail #130
+Rhum léger
+Citron vert
+Sucre
+Rhum blanc
+Glaçons
+
+# Cocktail #131
+Crown Royal
+Amaretto
+Jus de cranberry
+Jus d'ananas
+
+# Cocktail #132
+Rhum brun
+Orange
+Surge
+Jus de cranberry
+
+# Cocktail #133
+Rhum léger
+Ananas
+Jus de citron vert
+Sucre
+Gin
+Bitters
+Eau pétillante
+
+# Cocktail #134
+Gin
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #135
+Rhum léger
+Brandy
+Citron
+Raspberry syrup
+
+# Cocktail #136
+Brandy
+Triple sec
+Jus de citron
+
+# Cocktail #137
+Gin
+Citron
+Sucre en poudre
+Oeuf
+Noix de muscade
+
+# Cocktail #138
+Absolut Citron
+Jus d'orange
+Triple sec
+Ginger ale
+
+# Cocktail #139
+Rhum
+Galliano
+Jus d'ananas
+Jus de citron vert
+Prosecco
+
+# Cocktail #140
+Gin
+Grenadine
+Sucre en poudre
+
+# Cocktail #141
+Brandy
+Triple sec
+Citron
+
+# Cocktail #142
+Vodka
+Kahlua
+Bailey's irish cream
+Frangelico
+Milk
+
+# Cocktail #143
+Gin
+Triple sec
+Jus d'ananas
+
+# Cocktail #144
+Blended whiskey
+Citron
+Sucre en poudre
+Blanc d'oeuf
+Eau pétillante
+
+# Cocktail #145
+Gin
+Grenadine
+Crème épaisse
+Milk
+Blanc d'oeuf
+
+# Cocktail #146
+Vodka
+Kirschwasser
+Strawberry liqueur
+Strawberries
+Schweppes Russchian
+
+# Cocktail #147
+Rhum léger
+Brandy
+Citron
+Raspberry syrup
+
+# Cocktail #148
+Gin
+Eau pétillante
+Sucre
+Menthe
+Orange
+Cerise
+
+# Cocktail #149
+Gin
+Campari
+Sweet Vermouth
+
+# Cocktail #150
+Vodka
+Citron vert
+Jus de cranberry
+
+# Cocktail #151
+Vodka
+Kahlua
+Bailey's irish cream
+
+# Cocktail #152
+Rhum léger
+Triple sec
+Jus de citron
+
+# Cocktail #153
+Scotch
+Vin
+Jus d'orange
+Kool-Aid
+
+# Cocktail #154
+Bourbon
+Angostura bitters
+Sucre
+Eau
+Food coloring
+Food coloring
+Food coloring
+Glycerine
+
+# Cocktail #155
+Amaretto
+Creme de Cacao
+Crème légère
+
+# Cocktail #156
+Gin
+Triple sec
+Blue Curacao
+Bitters
+Maraschino cherry
+Zeste de citron
+
+# Cocktail #157
+Rhum léger
+Citron vert
+Sucre en poudre
+Citron
+Cerise
+
+# Cocktail #158
+Gin
+Citron
+Sucre en poudre
+Citron
+Cerise
+
+# Cocktail #159
+Rhum léger
+Anisette
+Grenadine
+Citron
+Blanc d'oeuf
+
+# Cocktail #160
+Gin
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #161
+Tequila
+Jus de citron vert
+Agave syrup
+
+# Cocktail #162
+Eau
+Sucre
+Cloves
+Cannelle
+
+# Cocktail #163
+Gin
+Jus de citron
+Maraschino liqueur
+Orange bitters
+
+# Cocktail #164
+Dry Vermouth
+Gin
+Benedictine
+Jus d'orange
+Jus de citron
+
+# Cocktail #165
+Gin
+Jus de citron
+Maraschino liqueur
+Orange bitters
+Jaune d'oeuf
+
+# Cocktail #166
+Bailey's irish cream
+Vanilla ice-cream
+Oreo cookie
+
+# Cocktail #167
+Blended whiskey
+Citron
+Sucre en poudre
+Eau pétillante
+
+# Cocktail #168
+Rhum ambré 151 Proof
+Rhum Malibu
+Jus d'ananas
+Jus d'orange
+Grenadine
+
+# Cocktail #169
+Rhum léger
+Rhum ambré 151 Proof
+Sucre en poudre
+Bitters
+Eau
+Lime peel
+
+# Cocktail #170
+Rhum brun
+Orgeat syrup
+Jus d'orange
+Jus d'ananas
+Jus de cranberry
+
+# Cocktail #171
+Scotch
+Half-and-half
+Condensed milk
+Coconut syrup
+Chocolate syrup
+
+# Cocktail #172
+Vodka
+Jus de citron vert
+Eau pétillante
+
+# Cocktail #173
+Gin
+Vodka
+Grenadine
+Jus d'orange
+
+# Cocktail #174
+Triple sec
+Apricot brandy
+Jus de citron
+Grenadine
+
+# Cocktail #175
+Rhum léger
+Ginger beer
+Zeste de citron
+
+# Cocktail #176
+Gin
+Grenadine
+Crème épaisse
+Milk
+Blanc d'oeuf
+
+# Cocktail #177
+Rhum
+Dry Vermouth
+Cognac
+Gin
+Fresh Lime Juice
+Sugar Syrup
+Eau
+
+# Cocktail #178
+Rhum
+Sucre en poudre
+Zeste de citron
+Eau
+
+# Cocktail #179
+Vodka
+Kahlua
+Coca-Cola
+Guinness stout
+
+# Cocktail #180
+Vodka
+Ouzo
+
+# Cocktail #181
+Kahlua
+Bailey's irish cream
+
+# Cocktail #182
+Bitters
+Gin
+
+# Cocktail #183
+Amaretto
+Sweet and sour
+Midori melon liqueur
+Jus d'ananas
+
+# Cocktail #184
+Kahlua
+Vodka
+Chocolate ice-cream
+
+# Cocktail #185
+Rhum léger
+Triple sec
+Jus de citron vert
+Sucre
+Blanc d'oeuf
+Menthe
+
+# Cocktail #186
+Gin
+Benedictine
+
+# Cocktail #187
+Gin
+Jus de citron
+Maraschino liqueur
+Orange bitters
+Jaune d'oeuf
+
+# Cocktail #188
+Amaretto
+Bailey's irish cream
+Cognac
+
+# Cocktail #189
+Gin
+Grenadine
+Crème épaisse
+Milk
+Blanc d'oeuf
+
+# Cocktail #190
+Vodka
+Kahlua
+Coca-Cola
+Guinness stout
+
+# Cocktail #191
+Gin
+Eau pétillante
+Sucre
+Menthe
+Orange
+Cerise
+
+# Cocktail #192
+Goldschlager
+Jägermeister
+Rumple Minze
+Rhum ambré 151 Proof
+
+# Cocktail #193
+Gin
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #194
+Sweet Vermouth
+Gin
+Bitters
+
+# Cocktail #195
+Gin
+Maraschino liqueur
+Anis
+Orange bitters
+Cerise
+
+# Cocktail #196
+Cointreau
+Vodka
+Citron vert
+Jus de cranberry
+
+# Cocktail #197
+Vodka
+Creme de Banane
+Grenadine
+Jus d'orange
+
+# Cocktail #198
+Bourbon
+Benedictine
+
+# Cocktail #199
+Vodka
+Amaretto
+Crème épaisse
+
+# Cocktail #200
+Gin
+Apricot Brandy
+Jus d'orange
+
+# Cocktail #201
+Gin
+Grenadine
+Citron
+Eau pétillante
+Citron vert
+
+# Cocktail #202
+Vodka
+Jus de tomate
+Jus de citron
+Worcestershire sauce
+Tabasco sauce
+Citron vert
+
+# Cocktail #203
+Brandy
+Oeuf
+Sucre
+Crème légère
+Noix de muscade
+
+# Cocktail #204
+Gin
+Creme de Cacao
+Crème légère
+
+# Cocktail #205
+Gin
+7-Up
+Jus de citron
+
+# Cocktail #206
+Gin
+Citron
+Sucre en poudre
+Eau
+Zeste d'orange
+
+# Cocktail #207
+Vodka
+Rhum léger
+Gin
+Tequila
+Citron
+Sucre en poudre
+Cerise
+Citron
+
+# Cocktail #208
+Gin
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #209
+Sweet Vermouth
+Sloe gin
+Zeste de citron
+
+# Cocktail #210
+Vodka
+Creme de Banane
+Jus d'orange
+
+# Cocktail #211
+Citron vert
+Sucre
+Rhum blanc
+Glaçons
+
+# Cocktail #212
+Gin
+Triple sec
+
+# Cocktail #213
+Amaretto
+Jus d'orange
+Grenadine
+
+# Cocktail #214
+Kahlua
+Café
+
+# Cocktail #215
+Absolut Vodka
+Jus de cranberry
+Ginger ale
+Glaçons
+
+# Cocktail #216
+Scotch
+Half-and-half
+Condensed milk
+Coconut syrup
+Chocolate syrup
+
+# Cocktail #217
+Glaçons
+Chocolate syrup
+Cherry brandy
+Vodka
+Milk
+
+# Cocktail #218
+Gin
+Grenadine
+Citron
+Eau pétillante
+Citron vert
+
+# Cocktail #219
+Gin
+Vermouth
+
+# Cocktail #220
+Vodka
+Jus de cranberry
+Champagne
+
+# Cocktail #221
+Sweet Vermouth
+Bourbon
+Angostura bitters
+Sucre
+Eau
+Jus de citron
+Bourbon
+Zeste de citron
+
+# Cocktail #222
+Rhum léger
+Cherry brandy
+Crème légère
+
+# Cocktail #223
+Tequila
+Tabasco sauce
+
+# Cocktail #224
+Vodka
+Raspberry Liqueur
+Jus d'ananas
+
+# Cocktail #225
+Gin
+Jus de citron
+Sucre
+Glaçons
+
+# Cocktail #226
+Sweet Vermouth
+Scotch
+Benedictine
+Zeste de citron
+
+# Cocktail #227
+Gin
+Eau pétillante
+Sucre
+Menthe
+Eau pétillante
+
+# Cocktail #228
+Rhum Malibu
+Rhum léger
+Rhum ambré 151 Proof
+Dark Creme de Cacao
+Cointreau
+Milk
+Coconut liqueur
+Vanilla ice-cream
+
+# Cocktail #229
+Rhum léger
+Triple sec
+Jus de citron vert
+Sucre
+Gin
+Bitters
+
+# Cocktail #230
+Glaçons
+Tennessee whiskey
+Vanilla extract
+Coca-Cola
+
+# Cocktail #231
+Rhum léger
+Citron vert
+Sucre
+Rhum blanc
+Glaçons
+
+# Cocktail #232
+Amaretto
+Sour mix
+Jus d'orange
+
+# Cocktail #233
+Rhum léger
+Orgeat syrup
+Triple sec
+Sweet and sour
+Cerise
+
+# Cocktail #234
+Gin
+Dry Vermouth
+Olive
+
+# Cocktail #235
+Gin
+Creme de Cacao
+Crème légère
+
+# Cocktail #236
+Gin
+Eau pétillante
+Sucre
+Menthe
+Eau pétillante
+
+# Cocktail #237
+Gin
+Dry Vermouth
+Olive
+
+# Cocktail #238
+Rhum léger
+Anisette
+Grenadine
+Citron
+Blanc d'oeuf
+Eau pétillante
+
+# Cocktail #239
+Gin
+Triple sec
+Jus d'ananas
+
+# Cocktail #240
+Gin
+Grenadine
+Crème épaisse
+Milk
+Blanc d'oeuf
+
+# Cocktail #241
+Brandy
+Gin
+Sweet Vermouth
+Eau pétillante
+Zeste de citron
+
+# Cocktail #242
+Amaretto
+Jus d'orange
+Grenadine
+Cherries
+
+# Cocktail #243
+Dry Vermouth
+Gin
+Kummel
+
+# Cocktail #244
+Rhum léger
+Triple sec
+Jus de citron vert
+Sucre
+Cerise
+
+# Cocktail #245
+Vodka
+Triple sec
+Tequila
+Melon liqueur
+Mountain Dew
+
+# Cocktail #246
+Creme de Cacao
+Vodka
+
+# Cocktail #247
+Strawberry schnapps
+Jus d'orange
+Jus de cranberry
+
+# Cocktail #248
+Rhum
+Ginger ale
+Fruit punch
+Jus d'orange
+Glaçons
+
+# Cocktail #249
+Creme de Cacao
+Vodka
+
+# Cocktail #250
+Sambuca
+Sarsaparilla
+
+# Cocktail #251
+Coffee brandy
+Lime vodka
+Sherry
+
+# Cocktail #252
+Vodka
+Creme de Banane
+Grenadine
+Jus d'orange
+
+# Cocktail #253
+Irish whiskey
+Bailey's irish cream
+Café
+
+# Cocktail #254
+Blended whiskey
+Dry Vermouth
+Jus d'ananas
+
+# Cocktail #255
+Vodka
+Chambord raspberry liqueur
+Peachtree schnapps
+Jus de cranberry
+
+# Cocktail #256
+Café
+Grain alcohol
+
+# Cocktail #257
+Triple sec
+Gin
+Jus d'ananas
+
+# Cocktail #258
+Tequila
+Jus de citron vert
+Agave syrup
+
+# Cocktail #259
+Blended whiskey
+Citron
+Sucre en poudre
+Citron
+Cerise
+
+# Cocktail #260
+Blackberry brandy
+Anis
+
+# Cocktail #261
+Vodka
+Amaretto
+
+# Cocktail #262
+Scotch
+Amaretto
+
+# Cocktail #263
+Gin
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #264
+Vodka
+Peach schnapps
+Jus d'orange
+Jus de cranberry
+
+# Cocktail #265
+Vodka
+Ouzo
+
+# Cocktail #266
+Vodka
+Raspberry Liqueur
+Jus d'ananas
+
+# Cocktail #267
+Amaretto
+Sour mix
+
+# Cocktail #268
+Vodka
+Amaretto
+Sloe gin
+Triple sec
+Jus de cranberry
+
+# Cocktail #269
+Brandy
+Rhum léger
+Triple sec
+Jus de citron vert
+Sucre
+Gin
+Bitters
+Zeste de citron
+
+# Cocktail #270
+Gin
+Triple Sec
+Jus de citron
+
+# Cocktail #271
+Vodka
+Gin
+Blue Curacao
+Sour mix
+Soda citron-citron vert
+
+# Cocktail #272
+Vodka
+Coconut liqueur
+Blue Curacao
+Sprite
+
+# Cocktail #273
+Tequila
+Jus d'orange
+Grenadine
+
+# Cocktail #274
+Creme de Cacao
+Vodka
+
+# Cocktail #275
+Vodka
+Jus de cranberry
+Champagne
+
+# Cocktail #276
+Absolut Vodka
+Cointreau
+Citron
+
+# Cocktail #277
+Vodka
+Jello
+Eau
+
+# Cocktail #278
+Brandy
+Gin
+Sweet Vermouth
+Eau pétillante
+Zeste de citron
+
+# Cocktail #279
+Tequila
+Jus de citron vert
+Agave syrup
+
+# Cocktail #280
+Triple sec
+Amaretto
+Cider
+Glaçons
+
+# Cocktail #281
+Gin
+Sweet Vermouth
+Eau pétillante
+Zeste de citron
+
+# Cocktail #282
+Rhum léger
+Porto
+Citron
+Sucre en poudre
+Porto
+Blanc d'oeuf
+Eau pétillante
+
+# Cocktail #283
+Creme de Cassis
+Champagne
+
+# Cocktail #284
+Cachaca
+Jus de citron
+Agave Syrup
+Champagne
+
+# Cocktail #285
+Café
+Vanilla extract
+Sucre
+Vodka
+Eau
+
+# Cocktail #286
+Scotch
+Drambuie
+Dry Vermouth
+Zeste de citron
+
+# Cocktail #287
+Sucre
+Corn syrup
+Café
+Vanilla extract
+Eau
+Vodka
+
+# Cocktail #288
+Absolut Vodka
+Gin
+Tonic water
+
+# Cocktail #289
+Amaretto
+Creme de Cacao
+Crème légère
+Noix de muscade
+
+# Cocktail #290
+Bière
+Root beer
+Lemonade
+Coca-Cola
+7-Up
+Creme de Cassis
+Citron
+
+# Cocktail #291
+Café
+Vanilla extract
+Sucre
+Vodka
+Eau
+
+# Cocktail #292
+Gin
+Eau pétillante
+Sucre en poudre
+Orange spiral
+Zeste de citron
+
+# Cocktail #293
+Vodka
+Rhum Malibu
+Gold tequila
+Jus d'orange
+Jus d'ananas
+
+# Cocktail #294
+Gin
+Triple sec
+
+# Cocktail #295
+Scotch
+Drambuie
+Dry Vermouth
+Zeste de citron
+
+# Cocktail #296
+Vodka
+Kahlua
+Bailey's irish cream
+Vanilla ice-cream
+Crème
+
+# Cocktail #297
+Jack Daniels
+Midori melon liqueur
+Sour mix
+
+# Cocktail #298
+Gin
+Creme de Cacao
+Crème légère
+
+# Cocktail #299
+Gin
+Jus de citron
+Sucre
+Grenadine
+Maraschino cherry
+
+# Cocktail #300
+Vodka
+Jus de tomate
+Jus de citron
+Worcestershire sauce
+Tabasco sauce
+Citron vert
+
+# Cocktail #301
+Vodka
+Creme de Banane
+Jus d'orange
+
+# Cocktail #302
+Jim Beam
+Jack Daniels
+Wild Turkey
+
+# Cocktail #303
+Sweet Vermouth
+Sloe gin
+Zeste de citron
+
+# Cocktail #304
+Midori melon liqueur
+Zima
+
+# Cocktail #305
+Crown Royal
+Kahlua
+Crème
+
+# Cocktail #306
+Bailey's irish cream
+Godiva liqueur
+Kahlua
+Butterscotch schnapps
+Milk
+
+# Cocktail #307
+Amaretto
+Sour mix
+Jus d'orange
+
+# Cocktail #308
+Brandy
+White Creme de Menthe
+
+# Cocktail #309
+Vodka
+Gin
+Jus de citron+citron vert+sucre
+Glaçons
+
+# Cocktail #310
+Brandy
+Gin
+Sweet Vermouth
+Brandy
+
+# Cocktail #311
+Blended whiskey
+Citron
+Sucre en poudre
+Eau pétillante
+
+# Cocktail #312
+Firewater
+Absolut Peppar
+Tabasco sauce
+
+# Cocktail #313
+Brandy
+Gin
+Dry Vermouth
+Eau pétillante
+
+# Cocktail #314
+Vodka
+Amaretto
+
+# Cocktail #315
+Vodka
+Half-and-half
+Limeade
+Glaçons
+Noix de muscade
+
+# Cocktail #316
+Green Creme de Menthe
+Creme de Cacao
+Crème légère
+Noix de muscade
+
+# Cocktail #317
+Rhum brun
+Vodka
+Triple sec
+Tequila
+Melon liqueur
+Mountain Dew
+
+# Cocktail #318
+Sucre
+Eau pétillante
+Maraschino cherry
+Orange
+
+# Cocktail #319
+Vodka
+Tequila
+Rhum léger
+Gin
+Tequila
+Citron
+Sucre en poudre
+Citron
+Cerise
+
+# Cocktail #320
+Sweet Vermouth
+Sloe gin
+Zeste de citron
+
+# Cocktail #321
+Rhum léger
+Brandy
+Citron
+Raspberry syrup
+
+# Cocktail #322
+Rhum léger
+Ginger beer
+Zeste de citron
+
+# Cocktail #323
+Bourbon
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #324
+Vodka
+Jello
+Eau
+
+# Cocktail #325
+Apricot brandy
+Gin
+Dry Vermouth
+Olive
+
+# Cocktail #326
+Bourbon
+Jus de citron
+Sucre
+Eau pétillante
+Maraschino cherry
+Orange
+
+# Cocktail #327
+Gin
+Jus de citron
+Sugar syrup
+Creme de Mure
+
+# Cocktail #328
+Vin rouge
+Sucre
+Citron
+Orange
+Apple
+Brandy
+Eau pétillante
+
+# Cocktail #329
+Vodka
+Amaretto
+
+# Cocktail #330
+Tequila
+Blue Curacao
+Jus de citron vert
+Sel
+
+# Cocktail #331
+Vodka
+Dry Vermouth
+Olive
+
+# Cocktail #332
+Amaretto
+Creme de Cacao
+Crème légère
+
+# Cocktail #333
+Kahlua
+Sambuca
+Grand Marnier
+
+# Cocktail #334
+Grand Marnier
+Café
+
+# Cocktail #335
+Kahlua
+Bailey's irish cream
+
+# Cocktail #336
+Vodka
+Coconut liqueur
+Blue Curacao
+Sprite
+
+# Cocktail #337
+Gin
+Grand Marnier
+Jus de citron
+Zeste de citron
+
+# Cocktail #338
+Grenadine
+Kahlua
+Bailey's irish cream
+Frangelico
+Café
+Crème
+
+# Cocktail #339
+Gin
+Triple sec
+Chambord raspberry liqueur
+Midori melon liqueur
+Rhum Malibu
+
+# Cocktail #340
+Sucre
+Eau
+Food coloring
+Food coloring
+
+# Cocktail #341
+Corona
+Rhum léger
+
+# Cocktail #342
+Rhum brun
+Orange
+Surge
+Jus de cranberry
+
+# Cocktail #343
+Tequila
+Jus de tomate
+Jus de citron
+Worcestershire sauce
+Tabasco sauce
+Citron vert
+
+# Cocktail #344
+Rhum léger
+Jus de citron vert
+Sugar syrup
+Grenadine
+
+# Cocktail #345
+Vodka
+Jus de citron vert
+Eau pétillante
+
+# Cocktail #346
+Rhum léger
+Jus de citron
+Sucre
+Eau pétillante
+Citron
+
+# Cocktail #347
+Sweet Vermouth
+Sloe gin
+Vin
+
+# Cocktail #348
+Gin
+Sucre
+Jus de citron
+Champagne
+Orange
+Maraschino cherry
+
+# Cocktail #349
+Tequila
+Triple sec
+Fruit
+Glaçons
+Sel
+Jus de fruit
+
+# Cocktail #350
+Gin
+Grenadine
+Citron
+
+# Cocktail #351
+Creme de Cassis
+Champagne
+
+# Cocktail #352
+Tequila
+Jus d'orange
+Grenadine
+Cherries
+
+# Cocktail #353
+Rhum léger
+Triple sec
+Jus de citron vert
+Sucre
+Blanc d'oeuf
+Menthe
+
+# Cocktail #354
+Vodka
+Amaretto
+Sloe gin
+Jus de citron
+
+# Cocktail #355
+Apricot brandy
+Jus d'orange
+Sweet and sour
+
+# Cocktail #356
+Sambuca
+Sarsaparilla
+
+# Cocktail #357
+Rhum brun
+Peach nectar
+Jus d'orange
+
+# Cocktail #358
+Rhum léger
+Jus de citron vert
+Sucre en poudre
+Strawberries
+
+# Cocktail #359
+Lager
+Cider
+Blackcurrant cordial
+
+# Cocktail #360
+Galliano
+Triple Sec
+Jus de citron vert
+
+# Cocktail #361
+Dry Vermouth
+Gin
+Kummel
+
+# Cocktail #362
+Gin
+Jus de cranberry
+Grenadine
+
+# Cocktail #363
+Rhum épicé
+Ginger ale
+
+# Cocktail #364
+Gin
+Citron
+Sucre en poudre
+Blanc d'oeuf
+Citron
+Cerise
+
+# Cocktail #365
+Kahlua
+Crème de whisky
+Amaretto
+Rhum ambré 151 Proof
+Crème
+
+# Cocktail #366
+Vodka
+Tonic water
+
+# Cocktail #367
+Bitters
+Gin
+
+# Cocktail #368
+Amaretto
+Creme de Cacao
+Crème légère
+
+# Cocktail #369
+Vodka
+Kahlua
+Bailey's irish cream
+
+# Cocktail #370
+Amaretto
+Rhum
+Kool-Aid
+
+# Cocktail #371
+Gin
+Sweet Vermouth
+Eau pétillante
+Zeste de citron
+
+# Cocktail #372
+Glaçons
+Chocolate syrup
+Cherry brandy
+Vodka
+Milk
+
+# Cocktail #373
+Amaretto
+Jus d'orange
+Grenadine
+Cherries
+
+# Cocktail #374
+Gin
+Grenadine
+Citron
+Eau pétillante
+Citron vert
+
+# Cocktail #375
+Vodka
+Jus d'orange
+Jus de citron
+
+# Cocktail #376
+Brandy
+Oeuf
+Sucre
+Crème légère
+Noix de muscade
+
+# Cocktail #377
+Rhum léger
+Citron vert
+Coca-Cola
+Glaçons
+
+# Cocktail #378
+Vodka
+Creme de Cassis
+Sugar Syrup
+Jus de citron
+
+# Cocktail #379
+Amaretto
+Crème légère
+
+# Cocktail #380
+Gin
+Dry Vermouth
+Sucre en poudre
+Orange spiral
+Zeste de citron
+
+# Cocktail #381
+Vodka
+Coconut liqueur
+Blue Curacao
+Sprite
+
+# Cocktail #382
+Kahlua
+Bailey's irish cream
+
+# Cocktail #383
+Vodka
+Jello
+Eau
+
+# Cocktail #384
+Gin
+Triple sec
+Jus de citron
+
+# Cocktail #385
+Rhum léger
+Milk
+Sucre en poudre
+Noix de muscade
+
+# Cocktail #386
+Amaretto
+Creme de Cacao
+Crème légère
+
+# Cocktail #387
+Gin
+Citron
+Sucre en poudre
+Blanc d'oeuf
+Citron
+Cerise
+
+# Cocktail #388
+Gin
+Grenadine
+Citron
+Blanc d'oeuf
+Eau pétillante
+
+# Cocktail #389
+Vodka
+Amaretto
+
+# Cocktail #390
+Rhum léger
+Brandy
+Citron
+Sucre en poudre
+Eau
+Zeste d'orange
+
+# Cocktail #391
+Rhum brun
+Kahlua
+Blanc d'oeuf
+
+# Cocktail #392
+Southern Comfort
+Triple sec
+Citron vert
+Sour mix
+
+# Cocktail #393
+Vodka
+Banana liqueur
+Jus d'orange
+Peach schnapps
+
+# Cocktail #394
+Vodka
+Galliano
+Jus d'orange
+
+# Cocktail #395
+Absolut Citron
+Jus de citron vert
+Glaçons
+Tonic water
+
+# Cocktail #396
+Gin
+Sucre
+Jus de citron
+Champagne
+Orange
+Maraschino cherry
+
+# Cocktail #397
+Brandy
+Triple sec
+Citron vert
+Citron vert
+
+# Cocktail #398
+Gin
+Citron
+Sucre en poudre
+Blanc d'oeuf
+
+# Cocktail #399
+Jus de cranberry
+Eau pétillante
+
+# Cocktail #400
+Gin
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #401
+Amaretto
+Sour mix
+
+# Cocktail #402
+Vodka
+Kahlua
+Bailey's irish cream
+Frangelico
+Café
+Crème
+
+# Cocktail #403
+Vin rouge
+Citron
+Jus d'orange
+Orange
+Jus d'ananas
+
+# Cocktail #404
+Amaretto
+Creme de Cacao
+Crème légère
+
+# Cocktail #405
+Champagne
+Peach schnapps
+
+# Cocktail #406
+Blended whiskey
+Citron
+Sucre en poudre
+Citron
+Cerise
+
+# Cocktail #407
+Absolut Vodka
+Iced tea
+
+# Cocktail #408
+Gin
+Orange bitters
+Orange
+Cerise
+
+# Cocktail #409
+Vodka
+Galliano
+Jus d'orange
+
+# Cocktail #410
+Sprite
+Pink lemonade
+Vodka
+
+# Cocktail #411
+Rhum léger
+Triple sec
+Jus de citron
+Blanc d'oeuf
+Orange
+
+# Cocktail #412
+Vodka
+Kahlua
+Sugar syrup
+
+# Cocktail #413
+Peach Vodka
+Coca-Cola
+
+# Cocktail #414
+Rhum brun
+Vodka
+Triple sec
+Jus d'orange
+
+# Cocktail #415
+Vodka
+Kahlua
+Sugar syrup
+
+# Cocktail #416
+Vodka
+Jus de citron vert
+Eau pétillante
+
+# Cocktail #417
+Rhum brun
+Orange
+Surge
+Jus de cranberry
+
+# Cocktail #418
+Rhum ambré 151 Proof
+Pina colada mix
+Daiquiri mix
+
+# Cocktail #419
+Apricot brandy
+Gin
+Dry Vermouth
+Olive
+
+# Cocktail #420
+Gin
+Triple Sec
+Jus de citron
+
+# Cocktail #421
+Vodka
+Jello
+Eau
+
+# Cocktail #422
+Gin
+Dry Vermouth
+Eau pétillante
+
+# Cocktail #423
+Rhum léger
+Jus d'ananas
+Maraschino liqueur
+Grenadine
+Maraschino cherry
+Orange
+
+# Cocktail #424
+Sweet Vermouth
+Scotch
+Benedictine
+Zeste de citron
+
+# Cocktail #425
+Tequila
+Apple cider
+
+# Cocktail #426
+Gin
+Cognac
+Creme de Cassis
+Fresh Lemon Juice
+
+# Cocktail #427
+Gin
+Jus de cranberry
+Grenadine
+
+# Cocktail #428
+Vodka
+Creme de Banane
+Jus d'orange
+
+# Cocktail #429
+Bailey's irish cream
+Kahlua
+
+# Cocktail #430
+Crème de whisky
+Goldschlager
+
+# Cocktail #431
+Gin
+Brandy
+Sweet Vermouth
+Eau pétillante
+Zeste de citron
+
+# Cocktail #432
+Rhum léger
+Citron vert
+Sucre en poudre
+
+# Cocktail #433
+Vin rouge
+Sucre
+Citron
+Orange
+Apple
+Brandy
+Eau pétillante
+
+# Cocktail #434
+Kahlua
+Bailey's irish cream
+
+# Cocktail #435
+Gin
+Jus de citron
+maraschino liqueur
+
+# Cocktail #436
+Kahlua
+Sambuca
+
+# Cocktail #437
+Blended whiskey
+Citron
+Sucre en poudre
+Eau pétillante
+
+# Cocktail #438
+Absolut Citron
+Grand Marnier
+Jus de citron
+Grenadine
+Sucre en poudre
+Ananas
+Strawberries
+Eau pétillante
+
+# Cocktail #439
+Gin
+Jus de citron
+maraschino liqueur
+
+# Cocktail #440
+Vin rouge
+Sucre
+Citron
+Orange
+Apple
+Brandy
+Eau pétillante
+
+# Cocktail #441
+Scotch
+Vin
+
+# Cocktail #442
+Gin
+Grenadine
+Citron
+Eau pétillante
+Citron vert
+
+# Cocktail #443
+Vodka
+Cherry liqueur
+Jus de cranberry
+Jus d'orange
+
+# Cocktail #444
+Gin
+Ginger ale
+Citron vert
+Glaçons
+
+# Cocktail #445
+Gin
+Grenadine
+Citron
+
+# Cocktail #446
+Rhum léger
+Citron vert
+Sucre
+Rhum blanc
+Glaçons
+
+# Cocktail #447
+Glaçons
+Vodka
+Peach nectar
+Peach schnapps
+Zeste de citron
+
+# Cocktail #448
+Gin
+Sweet Vermouth
+Jus d'orange
+Angostura Bitters
+
+# Cocktail #449
+Vodka
+Blue Curacao
+Lemonade
+Cerise
+
+# Cocktail #450
+Gin
+Dry Vermouth
+Triple sec
+Orange bitters
+Cerise
+
+# Cocktail #451
+Vodka
+Amaretto
+Crème épaisse
+
+# Cocktail #452
+Rhum brun
+Vodka
+Triple sec
+Jus d'orange
+
+# Cocktail #453
+Sweet Vermouth
+Sloe gin
+Zeste de citron
+
+# Cocktail #454
+Baileys irish cream
+Chambord raspberry liqueur
+Sugar syrup
+Sucre
+
+# Cocktail #455
+Vin rouge
+Grenadine
+Soda citron-citron vert
+
+# Cocktail #456
+Gin
+Grand Marnier
+Jus de citron
+Eau pétillante
+
+# Cocktail #457
+Gin
+Grenadine
+Citron
+Eau pétillante
+Citron vert
+
+# Cocktail #458
+Gin
+Ginger ale
+Citron vert
+Glaçons
+
+# Cocktail #459
+Gin
+Citron
+Sucre en poudre
+Blanc d'oeuf
+Citron
+Cerise
+
+# Cocktail #460
+Scotch
+Sweet Vermouth
+Dry Vermouth
+Orange bitters
+
+# Cocktail #461
+Rhum léger
+Citron vert
+Sucre
+Rhum blanc
+Glaçons
+
+# Cocktail #462
+Gin
+Campari
+Sweet Vermouth
+
+# Cocktail #463
+Cherry Heering
+Eau pétillante
+Jus d'orange
+Glaçons
+
+# Cocktail #464
+Jägermeister
+Sambuca
+Vodka
+
+# Cocktail #465
+Vanilla Ice-Cream
+Milk
+Godiva liqueur
+Whipped Cream
+caramel sauce
+chocolate sauce
+Mini-snickers bars
+
+# Cocktail #466
+Kahlua
+Galliano
+Eau pétillante
+
+# Cocktail #467
+Amaretto
+Rhum
+Kool-Aid
+
+# Cocktail #468
+Absolut Vodka
+Gin
+Tonic water
+Citron vert
+
+# Cocktail #469
+Gin
+Grenadine
+Citron
+Blanc d'oeuf
+Eau pétillante
+
+# Cocktail #470
+Dry Vermouth
+Gin
+Benedictine
+
+# Cocktail #471
+Vodka
+Dry Vermouth
+Olive Brine
+Citron
+Olive
+
+# Cocktail #472
+Vodka
+Lemonade
+Eau
+Sucre
+
+# Cocktail #473
+Amaretto
+Vodka
+Rhum ambré 151 Proof
+Dr. Pepper
+Bière
+
+# Cocktail #474
+Vodka
+Dry Vermouth
+Olive
+
+# Cocktail #475
+Vin rouge
+Grenadine
+Soda citron-citron vert
+
+# Cocktail #476
+Kahlua
+Sambuca
+
+# Cocktail #477
+Gin
+Sweet Vermouth
+Eau pétillante
+Zeste de citron
+
+# Cocktail #478
+Vodka
+Jello
+Eau
+
+# Cocktail #479
+Vodka
+Iced tea
+Jus de citron
+
+# Cocktail #480
+Vodka
+Jus de citron
+Grape juice
+Sucre en poudre
+Orange
+
+# Cocktail #481
+Vodka
+Dry Vermouth
+Olive Brine
+Citron
+Olive
+
+# Cocktail #482
+Amaretto
+Creme de Cacao
+Crème légère
+
+# Cocktail #483
+Gin
+Triple sec
+Jus d'ananas
+
+# Cocktail #484
+Kahlua
+Milk
+
+# Cocktail #485
+Rhum léger
+Brandy
+Citron
+Sucre en poudre
+Blanc d'oeuf
+
+# Cocktail #486
+Gin
+Sweet Vermouth
+Brandy
+
+# Cocktail #487
+Gin
+Vodka
+Grenadine
+Jus d'orange
+
+# Cocktail #488
+Gin
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #489
+Kahlua
+Sambuca
+Bailey's irish cream
+White Creme de Menthe
+
+# Cocktail #490
+Vodka
+Raspberry Liqueur
+Jus d'ananas
+
+# Cocktail #491
+Rhum Malibu
+Tropicana
+Jus de cranberry
+
+# Cocktail #492
+Rhum léger
+Triple sec
+Banana
+Jus de citron vert
+Sucre
+Blanc d'oeuf
+Menthe
+
+# Cocktail #493
+Kahlua
+Bailey's irish cream
+Vanilla ice-cream
+Oreo cookie
+
+# Cocktail #494
+Vodka
+Triple sec
+Tequila
+Melon liqueur
+Mountain Dew
+
+# Cocktail #495
+Gin
+Eau pétillante
+Sucre
+Menthe
+Eau pétillante
+
+# Cocktail #496
+Gin
+Triple sec
+Blue Curacao
+Bitters
+Maraschino cherry
+Zeste de citron
+
+# Cocktail #497
+Coffee liqueur
+Vodka
+
+# Cocktail #498
+Gin
+Triple sec
+Chambord raspberry liqueur
+Midori melon liqueur
+Rhum Malibu
+Amaretto
+Jus de cranberry
+
+# Cocktail #499
+Gin
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #500
+Rhum
+Soda citron-citron vert
+Citron
+
+# Cocktail #501
+Lager
+Campari
+
+# Cocktail #502
+Gin
+Sucre
+Jus de citron
+Champagne
+Orange
+Maraschino cherry
+
+# Cocktail #503
+Tequila
+Jus de citron vert
+Agave syrup
+
+# Cocktail #504
+Sweet Vermouth
+Bourbon
+Angostura bitters
+Sucre
+Eau
+Abricot
+Almond flavoring
+Grain alcohol
+Eau
+Brandy
+Food coloring
+Food coloring
+Food coloring
+
+# Cocktail #505
+Vodka
+Triple sec
+Tequila
+Melon liqueur
+Mountain Dew
+
+# Cocktail #506
+Vodka
+Southern Comfort
+Passion fruit syrup
+Sweet and sour
+Eau pétillante
+Cerise
+
+# Cocktail #507
+Gin
+Triple sec
+Jus d'ananas
+Grenadine
+Ananas
+
+# Cocktail #508
+Vodka
+Citron vert
+Angostura bitters
+Tonic water
+Glaçons
+
+# Cocktail #509
+Scotch
+Sweet Vermouth
+Orange bitters
+Olive
+
+# Cocktail #510
+Vodka
+Galliano
+Jus d'orange
+
+# Cocktail #511
+Gin
+Grand Marnier
+Jus de citron
+Zeste de citron
+
+# Cocktail #512
+Vodka
+Amaretto
+Crème épaisse
+
+# Cocktail #513
+Rhum léger
+Triple sec
+Jus de citron vert
+Sucre
+Blanc d'oeuf
+Menthe
+
+# Cocktail #514
+Rhum léger
+Citron vert
+Sucre en poudre
+
+# Cocktail #515
+Gin
+Jus de citron
+Sucre
+Eau pétillante
+Citron
+Brandy
+Maraschino cherry
+Orange
+
+# Cocktail #516
+Vodka
+Jello
+Eau
+
+# Cocktail #517
+Rhum
+Café
+Eau
+Whipped cream
+
+# Cocktail #518
+Tequila
+Tabasco sauce
+
+# Cocktail #519
+Kahlua
+Bailey's irish cream
+
+# Cocktail #520
+Rhum léger
+Blended whiskey
+Citron
+Citron vert
+Citron
+Fresca
+
+# Cocktail #521
+Rhum brun
+Ginger Beer
+
+# Cocktail #522
+Vodka
+Gin
+Jus de citron+citron vert+sucre
+Glaçons
+
+# Cocktail #523
+Vodka
+Coffee liqueur
+Crème légère
+
+# Cocktail #524
+Bourbon
+Benedictine
+Zeste de citron
+
+# Cocktail #525
+Dry Vermouth
+Gin
+Benedictine
+Jus d'orange
+Jus de citron
+Cloves
+Cannelle
+
+# Cocktail #526
+Brandy
+White Creme de Menthe
+
+# Cocktail #527
+Scotch
+Sweet Vermouth
+Dry Vermouth
+Eau pétillante
+Zeste de citron
+
+# Cocktail #528
+Kahlua
+Bailey's irish cream
+
+# Cocktail #529
+Gin
+Jus de citron
+Sucre
+Grenadine
+Maraschino cherry
+
+# Cocktail #530
+Gin
+Creme de Cacao
+Crème légère
+Noix de muscade
+
+# Cocktail #531
+Vodka
+Jello
+Eau
+
+# Cocktail #532
+Café
+Vanilla extract
+Sucre
+Vodka
+Eau
+
+# Cocktail #533
+Brandy
+Oeuf
+Sucre
+Crème légère
+Noix de muscade
+
+# Cocktail #534
+Vodka
+Ouzo
+
+# Cocktail #535
+Kahlua
+Milk
+Vanilla ice-cream
+
+# Cocktail #536
+Gin
+Jus de citron
+maraschino liqueur
+
+# Cocktail #537
+Kahlua
+Rhum ambré 151 Proof
+Grenadine
+
+# Cocktail #538
+Gin
+Grenadine
+Sucre en poudre
+
+# Cocktail #539
+Sweet Vermouth
+Scotch
+Benedictine
+Zeste de citron
+
+# Cocktail #540
+Brandy
+Rhum léger
+Bourbon
+Citron
+Sucre en poudre
+Blanc d'oeuf
+Citron
+Cerise
+
+# Cocktail #541
+Apricot brandy
+Jus d'orange
+Orange bitters
+
+# Cocktail #542
+Vodka
+Cherry liqueur
+Jus de cranberry
+Jus d'orange
+
+# Cocktail #543
+Tequila
+Tabasco sauce
+
+# Cocktail #544
+Vodka
+Iced tea
+Jus de citron
+
+# Cocktail #545
+Absolut Vodka
+Jus de cranberry
+Ginger ale
+Glaçons
+
+# Cocktail #546
+Dry Vermouth
+Gin
+Kummel
+
+# Cocktail #547
+Vodka
+Jus de cranberry
+Jus de pamplemousse
+
+# Cocktail #548
+Amaretto
+Jus de citron vert
+Eau pétillante
+
+# Cocktail #549
+Amaretto
+Jus de citron vert
+Eau pétillante
+
+# Cocktail #550
+Vodka
+Amaretto
+
+# Cocktail #551
+Champagne
+Jus d'orange
+
+# Cocktail #552
+Irish whiskey
+Bailey's irish cream
+Café
+
+# Cocktail #553
+Sucre
+Citron vert
+Cachaca
+
+# Cocktail #554
+Gin
+Eau pétillante
+Sucre
+Menthe
+Orange
+Cerise
+
+# Cocktail #555
+Rhum Malibu
+Blackberry brandy
+Jus d'orange
+Jus d'ananas
+Cream of coconut
+Grenadine
+Glaçons
+Ananas
+
+# Cocktail #556
+Vodka
+Jus de cranberry
+Champagne
+
+# Cocktail #557
+Absolut Citron
+Jus de citron vert
+Cointreau
+Jus de cranberry
+
+# Cocktail #558
+Bourbon
+Rhum brun
+Crème épaisse
+
+# Cocktail #559
+Sweet Vermouth
+Sherry
+Orange bitters
+
+# Cocktail #560
+Gin
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #561
+Vin rouge
+Sucre
+Citron
+Orange
+Apple
+Brandy
+Eau pétillante
+
+# Cocktail #562
+Gin
+Triple sec
+
+# Cocktail #563
+Vodka
+Creme de Cassis
+Sugar Syrup
+Jus de citron
+
+# Cocktail #564
+Gin
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #565
+Blended whiskey
+Citron
+Sucre en poudre
+Cerise
+Citron
+
+# Cocktail #566
+Southern Comfort
+Amaretto
+Sloe gin
+Jus de citron
+
+# Cocktail #567
+Cognac
+Amaretto
+
+# Cocktail #568
+Tequila
+Triple sec
+Vodka
+Crème légère
+
+# Cocktail #569
+Corona
+Bacardi Limon
+
+# Cocktail #570
+Gin
+7-Up
+Jus de citron
+
+# Cocktail #571
+Amaretto
+Sour mix
+Jus d'orange
+
+# Cocktail #572
+Rhum léger
+Ginger beer
+Zeste de citron
+
+# Cocktail #573
+Blended whiskey
+Citron
+Citron vert
+
+# Cocktail #574
+Gin
+Sweet and sour
+Oeuf
+Coca-Cola
+
+# Cocktail #575
+Rhum léger
+Apricot brandy
+Triple sec
+Jus de citron
+
+# Cocktail #576
+Kahlua
+Bailey's irish cream
+
+# Cocktail #577
+Blended whiskey
+Citron
+Sucre en poudre
+Blanc d'oeuf
+
+# Cocktail #578
+Gin
+Grenadine
+Citron
+Blanc d'oeuf
+Eau pétillante
+
+# Cocktail #579
+Gin
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #580
+Rhum léger
+Anisette
+Grenadine
+Citron
+
+# Cocktail #581
+Lager
+Cider
+Blackcurrant squash
+
+# Cocktail #582
+Absolut Citron
+Jus d'orange
+Triple sec
+Ginger ale
+
+# Cocktail #583
+Dry Vermouth
+Gin
+Maraschino liqueur
+Orange bitters
+Jaune d'oeuf
+
+# Cocktail #584
+Rhum brun
+Jus de citron
+Grenadine
+Blanc d'oeuf
+
+# Cocktail #585
+Scotch
+Sweet Vermouth
+Bitters
+Sugar syrup
+
+# Cocktail #586
+Gin
+Cognac
+Creme de Cassis
+Fresh Lemon Juice
+
+# Cocktail #587
+Vodka
+Banana liqueur
+Jus d'orange
+Peach schnapps
+
+# Cocktail #588
+Rhum
+Vodka
+Tequila
+Rhum léger
+Gin
+Coca-Cola
+Zeste de citron
+
+# Cocktail #589
+Rhum
+Dry Vermouth
+Cognac
+Gin
+Fresh Lime Juice
+Sugar Syrup
+Eau
+
+# Cocktail #590
+Scotch
+Sweet Vermouth
+Dry Vermouth
+Bitters
+Maraschino liqueur
+Maraschino cherry
+
+# Cocktail #591
+Lager
+Cider
+Blackcurrant squash
+
+# Cocktail #592
+Gin
+Jus de citron
+Sugar syrup
+Creme de Mure
+
+# Cocktail #593
+Jus de pomme
+Rhum Malibu
+Cannelle
+
+# Cocktail #594
+Vodka
+Jus de citron vert
+Eau pétillante
+
+# Cocktail #595
+Brandy
+White Creme de Menthe
+
+# Cocktail #596
+Gin
+Rhum léger
+Tequila
+Triple sec
+Fruit
+Glaçons
+Sel
+Jus de fruit
+
+# Cocktail #597
+Sweet Vermouth
+Sloe gin
+Vin
+
+# Cocktail #598
+Sucre
+Eau
+Grain alcohol
+Peppermint extract
+Food coloring
+
+# Cocktail #599
+Scotch
+Drambuie
+Dry Vermouth
+Zeste de citron
+
+# Cocktail #600
+Gin
+Citron
+Sucre en poudre
+Eau pétillante
+
+# Cocktail #601
+Gin
+Sweet and sour
+Oeuf
+Coca-Cola
+
+# Cocktail #602
+Vodka
+Amaretto
+
+# Cocktail #603
+Vodka
+Banana liqueur
+Jus d'orange
+Peach schnapps
+
+# Cocktail #604
+Vodka
+Grape soda
+Jus d'orange
+Glaçons
+
+# Cocktail #605
+Rhum Malibu
+Peach schnapps
+Blue Curacao
+Sweet and sour
+
+# Cocktail #606
+Absolut Citron
+Jus de citron vert
+Cointreau
+Jus de cranberry
+
+# Cocktail #607
+Vodka
+Raspberry Liqueur
+Jus d'ananas
+
+# Cocktail #608
+Rhum léger
+Brandy
+Triple sec
+Jus de citron
+Blanc d'oeuf
+Orange
+
+# Cocktail #609
+Vodka
+Kahlua
+Coca-Cola
+Guinness stout
+
+# Cocktail #610
+Amaretto
+Citron
+Glaçons
+
+# Cocktail #611
+Absolut Citron
+Jus de citron vert
+Glaçons
+Tonic water
+
+# Cocktail #612
+Vodka
+Peach schnapps
+Jus de cranberry
+Jus de pamplemousse
+
+# Cocktail #613
+Gin
+Grenadine
+Citron
+Blanc d'oeuf
+
+# Cocktail #614
+Bailey's irish cream
+Godiva liqueur
+Kahlua
+Butterscotch schnapps
+Milk
+
+# Cocktail #615
+Peach Vodka
+Coca-Cola
+
+# Cocktail #616
+Vodka
+Jello
+Eau
+
+# Cocktail #617
+Rhum brun
+Citron vert
+Coca-Cola
+Glaçons
+
+# Cocktail #618
+Vodka
+Jus d'orange
+
+# Cocktail #619
+Sweet Vermouth
+Sloe gin
+Vin
+
+# Cocktail #620
+Tequila
+Tabasco sauce
+
+# Cocktail #621
+Vodka
+Blue Curacao
+Triple sec
+Sucre
+Glaçons
+
+# Cocktail #622
+Vodka
+Blue Curacao
+Triple sec
+Sucre
+Glaçons
+
+# Cocktail #623
+Kahlua
+Bailey's irish cream
+
+# Cocktail #624
+Gin
+7-Up
+Jus de citron
+
+# Cocktail #625
+Scotch
+Half-and-half
+Condensed milk
+Coconut syrup
+Chocolate syrup
+
+# Cocktail #626
+Amaretto
+Sour mix
+Jus d'orange
+
+# Cocktail #627
+Kahlua
+Crème de whisky
+Amaretto
+Rhum ambré 151 Proof
+Crème
+
+# Cocktail #628
+Dry Vermouth
+Gin
+Maraschino liqueur
+Orange bitters
+
+# Cocktail #629
+Sambuca
+Root beer
+Glaçons
+
+# Cocktail #630
+Amaretto
+Jus de citron vert
+Eau pétillante
+
+# Cocktail #631
+Amaretto
+Sour mix
+Jus d'orange
+
+# Cocktail #632
+Tequila
+Tabasco sauce
+
+# Cocktail #633
+Amaretto
+Rhum
+Kool-Aid
+
+# Cocktail #634
+Gin
+Citron
+Sucre en poudre
+Citron
+Blanc d'oeuf
+Eau pétillante
+
+# Cocktail #635
+Frangelico
+Crown Royal
+
+# Cocktail #636
+Bourbon
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #637
+Tequila
+Blue Curacao
+Jus de citron vert
+Sel
+
+# Cocktail #638
+Rhum léger
+Jus d'ananas
+Maraschino liqueur
+Grenadine
+Maraschino cherry
+
+# Cocktail #639
+Rhum épicé
+Grenadine
+Jus d'orange
+
+# Cocktail #640
+Rhum brun
+Ginger Beer
+
+# Cocktail #641
+Dry Vermouth
+Gin
+Benedictine
+
+# Cocktail #642
+Scotch
+Sweet Vermouth
+Dry Vermouth
+Eau pétillante
+Zeste de citron
+
+# Cocktail #643
+Gin
+Apricot Brandy
+Jus d'orange
+
+# Cocktail #644
+Vodka
+Peach schnapps
+Jus d'orange
+Jus de cranberry
+
+# Cocktail #645
+Vodka
+Kahlua
+Coca-Cola
+Guinness stout
+
+# Cocktail #646
+Kahlua
+Sambuca
+Grand Marnier
+
+# Cocktail #647
+Rhum léger
+Jus de citron vert
+Sugar syrup
+Grenadine
+
+# Cocktail #648
+Vodka
+Midori melon liqueur
+Sweet and sour
+
+# Cocktail #649
+Vanilla Ice-Cream
+Butterscotch schnapps
+Milk
+
+# Cocktail #650
+Gin
+Jus de citron
+maraschino liqueur
+
+# Cocktail #651
+Scotch
+Sweet Vermouth
+Dry Vermouth
+Eau pétillante
+
+# Cocktail #652
+Scotch
+Amaretto
+
+# Cocktail #653
+Vodka
+Grenadine
+Jus de citron vert
+Sucre
+Sugar syrup
+Eau pétillante
+
+# Cocktail #654
+Rhum léger
+Blended whiskey
+Citron
+Sucre en poudre
+Eau
+Zeste d'orange
+
+# Cocktail #655
+Gin
+Crème légère
+Sucre en poudre
+Oeuf
+Eau pétillante
+
+# Cocktail #656
+Kahlua
+Sambuca
+Bailey's irish cream
+White Creme de Menthe
+
+# Cocktail #657
+Amaretto
+Crème légère
+
+# Cocktail #658
+Brandy
+Triple sec
+Citron vert
+
+# Cocktail #659
+Absolut Vodka
+Peach schnapps
+Coconut liqueur
+Jus de cranberry
+Jus d'ananas
+
+# Cocktail #660
+Vodka
+Creme de Banane
+Grenadine
+Jus d'orange
+
+# Cocktail #661
+Vodka
+Jus de citron vert
+Eau pétillante
+
+# Cocktail #662
+Vodka
+Grape soda
+Jus d'orange
+Glaçons
+Candy
+
+# Cocktail #663
+Rhum léger
+Apricot brandy
+Triple sec
+Citron vert
+
+# Cocktail #664
+Scotch
+Sweet Vermouth
+Dry Vermouth
+Orange bitters
+
+# Cocktail #665
+Gin
+Dry Vermouth
+Eau pétillante
+
+# Cocktail #666
+Rhum ambré 151 Proof
+Wild Turkey
+
+# Cocktail #667
+Cherry brandy
+Grenadine
+Gin
+Sweet and sour
+Eau pétillante
+
+# Cocktail #668
+Vodka
+Creme de Banane
+Grenadine
+Jus d'orange
+Sour mix
+
+# Cocktail #669
+Vodka
+Sucre
+Anise
+Licorice root
+Wormwood
+
+# Cocktail #670
+Vodka
+Schweppes Russchian
+
+# Cocktail #671
+Gin
+Grenadine
+Sucre en poudre
+
+# Cocktail #672
+Vodka
+Tonic water
+
+# Cocktail #673
+Blended whiskey
+Citron
+Sucre en poudre
+Citron
+Blanc d'oeuf
+
+# Cocktail #674
+Gin
+Citron
+Sucre en poudre
+Oeuf
+Noix de muscade
+
+# Cocktail #675
+Tequila
+Blue Curacao
+Jus de citron vert
+Sel
+
+# Cocktail #676
+Gin
+Eau pétillante
+Sucre
+Menthe
+Orange
+Cerise
+
+# Cocktail #677
+Gin
+Citron
+Sucre en poudre
+Blanc d'oeuf
+
+# Cocktail #678
+Lager
+Cider
+Blackcurrant squash
+
+# Cocktail #679
+Coffee liqueur
+Rhum léger
+Glaçons
+Milk
+
+# Cocktail #680
+Vodka
+Jus de citron
+Grape juice
+Sucre en poudre
+Orange
+
+# Cocktail #681
+Brandy
+Porto
+Jaune d'oeuf
+
+# Cocktail #682
+Rhum léger
+Triple sec
+Jus de citron vert
+Sucre
+Cerise
+
+# Cocktail #683
+Gin
+Grenadine
+Sucre en poudre
+
+# Cocktail #684
+Kahlua
+Midori melon liqueur
+Bailey's irish cream
+
+# Cocktail #685
+Gin
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #686
+Vodka
+Kahlua
+Coca-Cola
+Guinness stout
+
+# Cocktail #687
+Gin
+Dry Vermouth
+Olive
+
+# Cocktail #688
+Vodka
+Grenadine
+Jus d'orange
+Sour mix
+
+# Cocktail #689
+Vodka
+Amaretto
+Crème épaisse
+
+# Cocktail #690
+Gin
+Jus de citron
+Maraschino liqueur
+Orange bitters
+
+# Cocktail #691
+Gin
+Jus de citron
+maraschino liqueur
+
+# Cocktail #692
+Gin
+Vermouth
+
+# Cocktail #693
+Rhum
+Ginger ale
+Fruit punch
+Jus d'orange
+Glaçons
+
+# Cocktail #694
+Sucre
+Eau
+Jus de citron
+Bourbon
+Zeste de citron
+
+# Cocktail #695
+Amaretto
+Dark Creme de Cacao
+Café
+
+# Cocktail #696
+Gin
+Grenadine
+Sucre en poudre
+
+# Cocktail #697
+Rhum brun
+Peach nectar
+Jus d'orange
+
+# Cocktail #698
+Rhum léger
+Citron vert
+Sucre
+Rhum blanc
+Glaçons
+
+# Cocktail #699
+Rhum léger
+Jus d'ananas
+Jus de citron
+
+# Cocktail #700
+Café
+Milk
+Triple sec
+Brandy
+
+# Cocktail #701
+Sucre
+Eau
+Abricot
+Almond flavoring
+Grain alcohol
+Eau
+Brandy
+Food coloring
+Food coloring
+Glycerine
+
+# Cocktail #702
+Gin
+Triple sec
+
+# Cocktail #703
+Rhum
+Vodka
+Gin
+Jus de citron+citron vert+sucre
+Glaçons
+
+# Cocktail #704
+Vodka
+Kahlua
+Coca-Cola
+Guinness stout
+
+# Cocktail #705
+Vodka
+Jus d'orange
+Jus de citron
+Cloves
+Cannelle
+
+# Cocktail #706
+Vodka
+Citron vert
+Jus de cranberry
+
+# Cocktail #707
+Rhum brun
+Kahlua
+Crème légère
+Noix de muscade
+
+# Cocktail #708
+Vodka
+Jus de citron vert
+Eau pétillante
+
+# Cocktail #709
+Tequila
+Tabasco sauce
+
+# Cocktail #710
+Rhum ambré 151 Proof
+Wild Turkey
+
+# Cocktail #711
+Gin
+Grand Marnier
+Jus de citron
+Eau pétillante
+
+# Cocktail #712
+Bourbon
+Jus de citron
+Sucre
+Eau pétillante
+Maraschino cherry
+Orange
+
+# Cocktail #713
+Café
+Chambord raspberry liqueur
+Cocoa powder
+Whipped cream
+
+# Cocktail #714
+Rhum brun
+Jus de citron
+Grenadine
+Sucre en poudre
+
+# Cocktail #715
+Rhum léger
+Jus de citron vert
+Menthe
+Sucre
+
+# Cocktail #716
+Absolut Vodka
+Gin
+Tonic water
+
+# Cocktail #717
+Rhum léger
+Rhum Añejo
+Jus d'orange
+Jus de citron
+
+# Cocktail #718
+Tequila
+Jus de citron
+Grenadine
+Blanc d'oeuf
+Ginger ale
+
+# Cocktail #719
+Rhum Malibu
+Peach schnapps
+Blue Curacao
+Sweet and sour
+
+# Cocktail #720
+Gin
+Sweet Vermouth
+Jus d'orange
+Angostura Bitters
+
+# Cocktail #721
+Tequila
+Jus de citron
+Grenadine
+Sucre en poudre
+Ananas
+Strawberries
+Eau pétillante
+
+# Cocktail #722
+Gin
+Grenadine
+Crème épaisse
+Milk
+Blanc d'oeuf
+
+# Cocktail #723
+Sucre
+Eau
+
+# Cocktail #724
+Gin
+Grenadine
+Citron
+
+# Cocktail #725
+Rhum léger
+Anisette
+Grenadine
+Citron
+Eau pétillante
+Citron vert
+
+# Cocktail #726
+Vodka
+Schweppes Russchian
+
+# Cocktail #727
+Cherry brandy
+Gin
+Jus d'orange
+Ginger ale
+
+# Cocktail #728
+Vodka
+Jus de citron vert
+Ginger ale
+
+# Cocktail #729
+Gin
+Jus de citron
+maraschino liqueur
+
+# Cocktail #730
+Brandy
+White Creme de Menthe
+
+# Cocktail #731
+Rhum ambré 151 Proof
+Wild Turkey
+
+# Cocktail #732
+Everclear
+Vodka
+Mountain Dew
+Surge
+Jus de citron
+Rhum
+
+# Cocktail #733
+Gin
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #734
+Vodka
+Tonic water
+
+# Cocktail #735
+Scotch
+Sweet Vermouth
+Bitters
+Sugar syrup
+
+# Cocktail #736
+Bourbon
+Benedictine
+
+# Cocktail #737
+Goldschlager
+Jägermeister
+Rumple Minze
+Rhum ambré 151 Proof
+
+# Cocktail #738
+Gin
+Eau pétillante
+Sucre en poudre
+Orange spiral
+Zeste de citron
+
+# Cocktail #739
+Rhum brun
+Orange
+Surge
+Jus de cranberry
+
+# Cocktail #740
+Rhum ambré 151 Proof
+Pina colada mix
+Daiquiri mix
+
+# Cocktail #741
+Gin
+Dry Vermouth
+Olive
+
+# Cocktail #742
+Amaretto
+Southern Comfort
+Glaçons
+Sour mix
+
+# Cocktail #743
+Vodka
+Amaretto
+Sloe gin
+Triple sec
+Jus de cranberry
+
+# Cocktail #744
+Gin
+Triple sec
+
+# Cocktail #745
+Rhum léger
+Brandy
+Citron
+Sucre en poudre
+Eau pétillante
+
+# Cocktail #746
+Vodka
+Amaretto
+Crème épaisse
+
+# Cocktail #747
+Amaretto
+Rhum
+Kool-Aid
+
+# Cocktail #748
+Coffee liqueur
+Vodka
+
+# Cocktail #749
+Cider
+Lager
+Blue Curacao
+
+# Cocktail #750
+Amaretto
+Creme de Cacao
+Crème légère
+
+# Cocktail #751
+Gin
+Jus de citron
+Sugar syrup
+Creme de Mure
+
+# Cocktail #752
+Gin
+Grenadine
+Citron
+Blanc d'oeuf
+
+# Cocktail #753
+Vin rouge
+Grenadine
+Soda citron-citron vert
+
+# Cocktail #754
+Gin
+Triple sec
+
+# Cocktail #755
+Amaretto
+Sour mix
+Jus d'orange
+
+# Cocktail #756
+Brandy
+Anisette
+
+# Cocktail #757
+Vodka
+Pisang Ambon
+Jus de pomme
+Jus de citron
+Lemonade
+
+# Cocktail #758
+Café
+Milk
+Triple sec
+Brandy
+
+# Cocktail #759
+Gin
+Grenadine
+Citron
+Blanc d'oeuf
+Eau pétillante
+
+# Cocktail #760
+Absolut Kurant
+Grand Marnier
+Chambord raspberry liqueur
+Midori melon liqueur
+Rhum Malibu
+Amaretto
+Jus de cranberry
+Jus d'ananas
+
+# Cocktail #761
+Vodka
+Peach schnapps
+Jus d'orange
+Jus de cranberry
+
+# Cocktail #762
+Sweet Vermouth
+Gin
+Bitters
+Zeste de citron
+
+# Cocktail #763
+Gin
+Benedictine
+
+# Cocktail #764
+Cachaca
+Jus de citron
+Agave Syrup
+Champagne
+
+# Cocktail #765
+Raspberry vodka
+Soda citron-citron vert
+Glaçons
+
+# Cocktail #766
+Gin
+Dry Vermouth
+Sucre en poudre
+Orange spiral
+Zeste de citron
+
+# Cocktail #767
+Rhum ambré 151 Proof
+Pina colada mix
+Daiquiri mix
+
+# Cocktail #768
+Gin
+Sweet Vermouth
+Jus d'orange
+Angostura Bitters
+
+# Cocktail #769
+Rhum Malibu
+Blackberry brandy
+Jus d'orange
+Jus d'ananas
+Cream of coconut
+Grenadine
+Glaçons
+Ananas
+
+# Cocktail #770
+Kahlua
+Sambuca
+Grand Marnier
+
+# Cocktail #771
+Creme de Cacao
+Vodka
+
+# Cocktail #772
+Vodka
+Amaretto
+
+# Cocktail #773
+Kahlua
+Vodka
+Chocolate ice-cream
+
+# Cocktail #774
+Kahlua
+Café
+
+# Cocktail #775
+Rhum
+Vodka
+Gin
+Blue Curacao
+Sour mix
+Soda citron-citron vert
+
+# Cocktail #776
+Sambuca
+Bailey's irish cream
+
+# Cocktail #777
+Peach Vodka
+Jus de citron
+Galliano
+Sirup of roses
+
+# Cocktail #778
+Gin
+Sweet Vermouth
+Jus d'orange
+Angostura Bitters
+
+# Cocktail #779
+Blended whiskey
+Benedictine
+Citron
+Citron vert
+Sucre en poudre
+Citron
+Blanc d'oeuf
+
+# Cocktail #780
+Kahlua
+Sambuca
+Bailey's irish cream
+White Creme de Menthe
+
+# Cocktail #781
+Gin
+Citron
+Sucre en poudre
+Cerise
+Citron
+
+# Cocktail #782
+Rhum léger
+Citron vert
+Sucre en poudre
+
+# Cocktail #783
+Gin
+Sweet Vermouth
+Brandy
+
+# Cocktail #784
+Bourbon
+Angostura bitters
+Glaçons
+Maraschino cherry
+
+# Cocktail #785
+Strawberry schnapps
+Tequila
+Triple sec
+Jus de citron
+
+# Cocktail #786
+Vodka
+Kahlua
+Bailey's irish cream
+
+# Cocktail #787
+Gin
+Grand Marnier
+Jus de citron
+Eau pétillante
+
+# Cocktail #788
+Gin
+Cognac
+Creme de Cassis
+Fresh Lemon Juice
+
+# Cocktail #789
+Gin
+Triple sec
+
+# Cocktail #790
+Scotch
+Vin
+
+# Cocktail #791
+Vodka
+Amaretto
+
+# Cocktail #792
+Sherry
+Crème légère
+Sucre en poudre
+Oeuf
+Noix de muscade
+
+# Cocktail #793
+Gin
+Eau pétillante
+Sucre en poudre
+Orange spiral
+Zeste de citron
+
+# Cocktail #794
+Gin
+Triple sec
+Chambord raspberry liqueur
+Midori melon liqueur
+Rhum Malibu
+Amaretto
+Jus de cranberry
+Jus d'ananas
+
+# Cocktail #795
+Gin
+Triple sec
+Jus d'ananas
+Grenadine
+Ananas
+
+# Cocktail #796
+Gin
+Sucre
+Jus de citron
+Champagne
+Orange
+Maraschino cherry
+
+# Cocktail #797
+Gin
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #798
+Vodka
+Amaretto
+Crème épaisse
+
+# Cocktail #799
+Blended whiskey
+Citron
+Sucre en poudre
+Blanc d'oeuf
+
+# Cocktail #800
+Vodka
+Amaretto
+Sloe gin
+Triple sec
+Jus de cranberry
+
+# Cocktail #801
+Rhum léger
+Jus d'orange
+
+# Cocktail #802
+Rhum léger
+Rhum Añejo
+Jus d'orange
+Jus de citron
+Ginger ale
+Zeste de citron
+
+# Cocktail #803
+Rhum léger
+Triple sec
+Banana
+Jus de citron vert
+Sucre
+Gin
+Bitters
+Zeste de citron
+
+# Cocktail #804
+Gin
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #805
+Vodka
+Southern Comfort
+Passion fruit syrup
+Sweet and sour
+Eau pétillante
+
+# Cocktail #806
+Rhum léger
+Triple sec
+Jus de citron vert
+Sucre
+Gin
+Bitters
+Eau pétillante
+
+# Cocktail #807
+Vodka
+Banana liqueur
+Jus d'orange
+Peach schnapps
+
+# Cocktail #808
+Tequila
+Tabasco sauce
+
+# Cocktail #809
+Gin
+Ginger ale
+Citron vert
+Glaçons
+
+# Cocktail #810
+Rhum léger
+Jus de citron vert
+Sugar syrup
+Grenadine
+
+# Cocktail #811
+Brandy
+Gin
+Dry Vermouth
+Sucre en poudre
+Orange spiral
+Zeste de citron
+
+# Cocktail #812
+Rhum brun
+Ginger Beer
+
+# Cocktail #813
+Vodka
+Triple sec
+Jus de citron vert
+Sucre
+Cerise
+Glaçons
+
+# Cocktail #814
+Sucre
+Eau pétillante
+Maraschino cherry
+Orange
+
+# Cocktail #815
+Jägermeister
+Goldschlager
+
+# Cocktail #816
+Sweet Vermouth
+Sloe gin
+Vin
+
+# Cocktail #817
+Cognac
+Cointreau
+Jus de citron
+Glaçons
+Citron
+
+# Cocktail #818
+Gin
+Rhum léger
+Tequila
+Triple sec
+Vodka
+Coca-Cola
+Sweet and sour
+Bitters
+Citron
+
+# Cocktail #819
+Gin
+Grand Marnier
+Jus de citron
+Zeste de citron
+
+# Cocktail #820
+Bourbon
+Benedictine
+Zeste de citron
+
+# Cocktail #821
+Rhum ambré 151 Proof
+Rhum Malibu
+Jus d'ananas
+Jus d'orange
+Grenadine
+
+# Cocktail #822
+Gin
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #823
+Tequila
+Citron
+Coca-Cola
+
+# Cocktail #824
+Bailey's irish cream
+Vanilla ice-cream
+Oreo cookie
+
+# Cocktail #825
+Gin
+Triple sec
+
+# Cocktail #826
+Vodka
+Galliano
+Jus d'orange
+
+# Cocktail #827
+Rhum léger
+Anisette
+Grenadine
+Citron
+Eau pétillante
+Citron vert
+
+# Cocktail #828
+Amaretto
+Sweet and sour
+Midori melon liqueur
+Jus d'ananas
+
+# Cocktail #829
+Jägermeister
+Goldschlager
+
+# Cocktail #830
+Dry Vermouth
+Gin
+Anis
+Bitters
+Zeste d'orange
+
+# Cocktail #831
+Vodka
+Rhum Malibu
+Gold tequila
+Jus d'orange
+Jus d'ananas
+Jus de cranberry
+
+# Cocktail #832
+Gin
+Vodka
+Lillet Blanc
+
+# Cocktail #833
+Gin
+Brandy
+Sweet Vermouth
+Eau pétillante
+Zeste de citron
+
+# Cocktail #834
+Kahlua
+Sambuca
+
+# Cocktail #835
+Tequila
+Triple sec
+Vodka
+Coca-Cola
+Sweet and sour
+Bitters
+Citron
+
+# Cocktail #836
+Vodka
+Jus de citron
+Grape juice
+Sucre en poudre
+Orange
+
+# Cocktail #837
+Vodka
+Lemonade
+Eau
+Vodka
+
+# Cocktail #838
+Sambuca
+Sarsaparilla
+
+# Cocktail #839
+Amaretto
+Jus de citron vert
+Eau pétillante
+
+# Cocktail #840
+Rhum brun
+Jus de citron
+Grenadine
+
+# Cocktail #841
+Southern Comfort
+Triple sec
+Citron vert
+Citron vert
+
+# Cocktail #842
+Rhum épicé
+Ginger ale
+Citron vert
+Glaçons
+
+# Cocktail #843
+Gin
+Dry Vermouth
+Grenadine
+Jus de citron
+Cerise
+
+# Cocktail #844
+Gin
+Dry Vermouth
+Triple sec
+Orange bitters
+Cerise
+
+# Cocktail #845
+Blended whiskey
+Citron
+Sucre
+Rhum ambré 151 Proof
+
+# Cocktail #846
+Gin
+Campari
+Sweet Vermouth
+Zeste de citron
+Zeste d'orange
+
+# Cocktail #847
+Tequila
+Tabasco sauce
+
+# Cocktail #848
+Tequila
+Jus de citron vert
+Agave syrup
+
+# Cocktail #849
+Amaretto
+Dark Creme de Cacao
+Café
+
+# Cocktail #850
+Rhum brun
+Citron vert
+Coca-Cola
+Glaçons
+
+# Cocktail #851
+Absolut Vodka
+Cointreau
+Citron
+
+# Cocktail #852
+Scotch
+Sweet Vermouth
+Dry Vermouth
+Bitters
+
+# Cocktail #853
+Sweet Vermouth
+Sloe gin
+Zeste de citron
+
+# Cocktail #854
+Rhum léger
+Sweet Vermouth
+Citron
+Sucre en poudre
+Eau pétillante
+
+# Cocktail #855
+Sambuca
+Sarsaparilla
+
+# Cocktail #856
+Brandy
+Triple sec
+Citron
+
+# Cocktail #857
+Sweet Vermouth
+Gin
+Bitters
+Zeste de citron
+Cognac
+
+# Cocktail #858
+Gin
+Campari
+Sweet Vermouth
+Zeste de citron
+Zeste d'orange
+
+# Cocktail #859
+Peach Vodka
+Coca-Cola
+
+# Cocktail #860
+Amaretto
+Jus d'orange
+Grenadine
+
+# Cocktail #861
+Tequila
+Triple sec
+Vodka
+Coca-Cola
+Sweet and sour
+Bitters
+Citron
+
+# Cocktail #862
+Vodka
+Southern Comfort
+Passion fruit syrup
+Sweet and sour
+Eau pétillante
+Cerise
+
+# Cocktail #863
+Rhum léger
+Triple sec
+Jus de citron vert
+Sel
+
+# Cocktail #864
+Rhum épicé
+Ginger ale
+
+# Cocktail #865
+Vodka
+Schweppes Russchian
+
+# Cocktail #866
+Gin
+Jus de citron
+maraschino liqueur
+
+# Cocktail #867
+Bailey's irish cream
+Kahlua
+
+# Cocktail #868
+Rhum épicé
+Ginger ale
+Citron vert
+Glaçons
+
+# Cocktail #869
+Vodka
+Jus d'orange
+
+# Cocktail #870
+Jus de pamplemousse
+Gin
+Sel
+
+# Cocktail #871
+Applejack
+Triple sec
+Jus de citron
+
+# Cocktail #872
+Vodka
+Amaretto
+Crème épaisse
+
+# Cocktail #873
+Brandy
+Creme de Cacao
+Crème légère
+
+# Cocktail #874
+Brandy
+Porto
+Jaune d'oeuf
+
+# Cocktail #875
+Café
+Everclear
+
+# Cocktail #876
+Gin
+Triple sec
+Jus d'ananas
+
+# Cocktail #877
+Rhum léger
+Citron vert
+Coca-Cola
+
+# Cocktail #878
+Tequila
+Jus de tomate
+Jus de citron
+Worcestershire sauce
+Tabasco sauce
+Citron vert
+
+# Cocktail #879
+Vodka
+Jus de citron vert
+Ginger ale
+
+# Cocktail #880
+Gin
+Jus de citron
+Sucre
+Grenadine
+Maraschino cherry
+
+# Cocktail #881
+Absolut Citron
+Jus de citron vert
+Glaçons
+Tonic water
+
+# Cocktail #882
+Irish whiskey
+Café
+Sucre
+Whipped cream
+
+# Cocktail #883
+Jägermeister
+Goldschlager
+
+# Cocktail #884
+Gin
+Citron
+Sucre en poudre
+Blanc d'oeuf
+Eau pétillante
+
+# Cocktail #885
+Kahlua
+Bailey's irish cream
+Frangelico
+Milk
+
+# Cocktail #886
+Gin
+Grenadine
+Sucre en poudre
+Ananas
+Strawberries
+Eau pétillante
+
+# Cocktail #887
+Brandy
+Anisette
+
+# Cocktail #888
+Glaçons
+Tennessee whiskey
+Vanilla extract
+Coca-Cola
+
+# Cocktail #889
+Chambord raspberry liqueur
+Vodka
+Eau pétillante
+
+# Cocktail #890
+Apricot brandy
+Apple brandy
+Gin
+
+# Cocktail #891
+Amaretto
+Vodka
+Rhum ambré 151 Proof
+Dr. Pepper
+Bière
+
+# Cocktail #892
+Rhum léger
+Orgeat syrup
+Triple sec
+Sweet and sour
+Cerise
+
+# Cocktail #893
+Vodka
+Dry Vermouth
+Olive
+
+# Cocktail #894
+Vodka
+Kahlua
+Coca-Cola
+Guinness stout
+
+# Cocktail #895
+Sweet Vermouth
+Sherry
+Orange bitters
+
+# Cocktail #896
+Gin
+Grenadine
+Citron
+Blanc d'oeuf
+Eau pétillante
+
+# Cocktail #897
+Gin
+Campari
+Sweet Vermouth
+
+# Cocktail #898
+Amaretto
+Rhum
+Kool-Aid
+
+# Cocktail #899
+Gin
+Sweet Vermouth
+Brandy
+
+# Cocktail #900
+Cherry brandy
+Grenadine
+Gin
+Sweet and sour
+Eau pétillante
+Cerise
+
+# Cocktail #901
+Rhum léger
+Brandy
+Triple sec
+Citron vert
+Sour mix
+
+# Cocktail #902
+Gin
+Grenadine
+Crème épaisse
+Milk
+Blanc d'oeuf
+
+# Cocktail #903
+Gin
+Grenadine
+Citron
+Eau pétillante
+Citron vert
+
+# Cocktail #904
+Brandy
+Oeuf
+Sucre
+Crème légère
+Noix de muscade
+
+# Cocktail #905
+Vodka
+Amaretto
+
+# Cocktail #906
+Gin
+Jus de citron
+Sucre
+Glaçons
+
+# Cocktail #907
+Vin rouge
+Sucre
+Jus d'orange
+Jus de citron
+
+# Cocktail #908
+Vodka
+Ouzo
+
+# Cocktail #909
+Amaretto
+Creme de Cacao
+Crème légère
+
+# Cocktail #910
+Vodka
+Jello
+Eau
+
+# Cocktail #911
+Gin
+Orange bitters
+Orange
+Cerise
+
+# Cocktail #912
+Gin
+Triple sec
+Jus d'ananas
+
+# Cocktail #913
+Vodka
+Jus d'orange
+
+# Cocktail #914
+Creme de Cacao
+Blue Curacao
+Rhum léger
+
+# Cocktail #915
+Scotch
+Sweet Vermouth
+Orange bitters
+Olive
+
+# Cocktail #916
+Kahlua
+Galliano
+Eau pétillante
+
+# Cocktail #917
+Kahlua
+Sambuca
+Blue Curacao
+Bailey's irish cream
+
+# Cocktail #918
+Gin
+Jus de citron
+maraschino liqueur
+
+# Cocktail #919
+Amaretto
+Citron vert
+
+# Cocktail #920
+Gin
+Triple sec
+Jus d'ananas
+
+# Cocktail #921
+Dry Vermouth
+Gin
+Benedictine
+
+# Cocktail #922
+Rhum
+Galliano
+Jus d'ananas
+Jus de citron vert
+Prosecco
+
+# Cocktail #923
+Vodka
+Peach schnapps
+Jus de cranberry
+Jus de pamplemousse
+
+# Cocktail #924
+Irish whiskey
+Peach brandy
+Jus d'orange
+Sweet and sour
+Orange
+Cerise
+
+# Cocktail #925
+Irish whiskey
+Peach brandy
+Jus d'orange
+Sweet and sour
+
+# Cocktail #926
+Cider
+Lager
+Blue Curacao
+
+# Cocktail #927
+Rhum léger
+Maple syrup
+Jus de citron
+
+# Cocktail #928
+Gin
+Grenadine
+Crème épaisse
+Milk
+Blanc d'oeuf
+
+# Cocktail #929
+Gin
+Brandy
+Sweet Vermouth
+Eau pétillante
+
+# Cocktail #930
+Vodka
+Creme de Banane
+Grenadine
+Jus d'orange
+
+# Cocktail #931
+Kahlua
+Milk
+
+# Cocktail #932
+Creme de Cacao
+Amaretto
+Triple sec
+Vodka
+Crème légère
+
+# Cocktail #933
+Kahlua
+Sambuca
+Grand Marnier
+
+# Cocktail #934
+Rhum léger
+Anisette
+Grenadine
+Citron
+Blanc d'oeuf
+
+# Cocktail #935
+Gin
+Jus de citron
+Sucre
+Eau pétillante
+Citron
+Rhum brun
+Maraschino cherry
+Orange
+
+# Cocktail #936
+Rhum léger
+Sherry
+Citron vert
+
+# Cocktail #937
+Gin
+Triple sec
+
+# Cocktail #938
+Rhum léger
+Triple sec
+Jus de citron vert
+Sucre
+Gin
+Bitters
+Zeste de citron
+Cognac
+
+# Cocktail #939
+Gin
+Tonic water
+
+# Cocktail #940
+Vodka
+Amaretto
+
+# Cocktail #941
+Rhum léger
+Jus de pamplemousse
+Bitters
+
+# Cocktail #942
+Kahlua
+Sambuca
+Blue Curacao
+Bailey's irish cream
+
+# Cocktail #943
+Vodka
+Jello
+Eau
+
+# Cocktail #944
+Vodka
+Blue Curacao
+Triple sec
+Sucre
+Glaçons
+
+# Cocktail #945
+Gin
+Dry Vermouth
+Triple sec
+Orange bitters
+Cerise
+
+# Cocktail #946
+Sweet Vermouth
+Dry Vermouth
+Bitters
+
+# Cocktail #947
+Vodka
+Chambord raspberry liqueur
+Peachtree schnapps
+Jus de cranberry
+
+# Cocktail #948
+Brandy
+Triple sec
+Jus de citron
+Strawberries
+Sel
+
+# Cocktail #949
+Vodka
+Coconut liqueur
+Blue Curacao
+Sprite
+
+# Cocktail #950
+Vodka
+Jello
+Eau
+
+# Cocktail #951
+Vodka
+Triple sec
+Jus d'orange
+
+# Cocktail #952
+Gin
+Sucre
+Jus de citron
+Champagne
+Orange
+Maraschino cherry
+
+# Cocktail #953
+Vodka
+Lemonade
+Eau
+Vodka
+
+# Cocktail #954
+Jägermeister
+Goldschlager
+
+# Cocktail #955
+Rhum épicé
+Ginger ale
+Citron vert
+
+# Cocktail #956
+Vodka
+Coffee liqueur
+Crème légère
+
+# Cocktail #957
+Vodka
+Amaretto
+
+# Cocktail #958
+Gin
+Campari
+Sweet Vermouth
+Zeste de citron
+Zeste d'orange
+
+# Cocktail #959
+Vodka
+Kirschwasser
+Strawberry liqueur
+Strawberries
+Schweppes Russchian
+
+# Cocktail #960
+Brandy
+Citron
+Sucre en poudre
+Blanc d'oeuf
+Citron
+Cerise
+
+# Cocktail #961
+Amaretto
+Creme de Cacao
+Crème légère
+
+# Cocktail #962
+Gin
+Brandy
+Sweet Vermouth
+Eau pétillante
+Zeste de citron
+
+# Cocktail #963
+Gin
+Sucre
+Jus de citron
+Champagne
+Orange
+Maraschino cherry
+
+# Cocktail #964
+Gin
+Triple sec
+Chambord raspberry liqueur
+Midori melon liqueur
+Rhum Malibu
+Amaretto
+Jus de cranberry
+
+# Cocktail #965
+Rhum léger
+Coconut milk
+Ananas
+
+# Cocktail #966
+Rhum léger
+Sherry
+Citron vert
+
+# Cocktail #967
+Rhum léger
+Triple sec
+Jus de citron
+
+# Cocktail #968
+Gin
+Triple sec
+Chambord raspberry liqueur
+Midori melon liqueur
+Rhum Malibu
+Amaretto
+Jus de cranberry
+Jus d'ananas
+
+# Cocktail #969
+Rhum léger
+Jus de citron vert
+Sucre en poudre
+Strawberries
+
+# Cocktail #970
+Vodka
+Creme de Banane
+Grenadine
+Jus d'orange
+
+# Cocktail #971
+Gin
+Grenadine
+Crème légère
+Blanc d'oeuf
+
+# Cocktail #972
+Vodka
+Dry Vermouth
+Olive
+
+# Cocktail #973
+Kahlua
+Galliano
+Eau pétillante
+
+# Cocktail #974
+Amaretto
+Jus d'orange
+
+# Cocktail #975
+Absolut Citron
+Sweet and sour
+Sprite
+Eau pétillante
+Citron
+Rhum brun
+Maraschino cherry
+Orange
+
+# Cocktail #976
+Vodka
+Jus de citron vert
+Ginger ale
+
+# Cocktail #977
+Vodka
+Jus d'orange
+
+# Cocktail #978
+Sucre
+Corn syrup
+Café
+Vanilla extract
+Sucre
+Vodka
+Eau
+
+# Cocktail #979
+Absolut Citron
+Jus de citron vert
+Cointreau
+Jus de cranberry
+
+# Cocktail #980
+Rhum léger
+Triple sec
+Jus de citron vert
+Sel
+
+# Cocktail #981
+Rhum
+Galliano
+Jus d'ananas
+Jus de citron vert
+Prosecco
+
+# Cocktail #982
+Gin
+Creme de Cacao
+Crème légère
+
+# Cocktail #983
+demerara Sugar
+Citron vert
+Cachaca
+
+# Cocktail #984
+Rhum léger
+Porto
+Citron
+Sucre en poudre
+Blanc d'oeuf
+
+# Cocktail #985
+Vodka
+Coconut liqueur
+Blue Curacao
+Sprite
+
+# Cocktail #986
+Rhum épicé
+Ginger ale
+Citron vert
+
+# Cocktail #987
+Vodka
+Jus de citron vert
+Ginger ale
+
+# Cocktail #988
+Kahlua
+Midori melon liqueur
+Bailey's irish cream
+
+# Cocktail #989
+Apricot brandy
+Gin
+Dry Vermouth
+Eau pétillante
+
+# Cocktail #990
+Absolut Citron
+Jus de citron vert
+Cointreau
+Jus de cranberry
+
+# Cocktail #991
+Brandy
+Rhum léger
+Bourbon
+Citron
+Sucre en poudre
+Blanc d'oeuf
+Eau pétillante
+
+# Cocktail #992
+Café
+Grain alcohol
+
+# Cocktail #993
+Bailey's irish cream
+Bourbon
+Vodka
+Jus d'orange
+
+# Cocktail #994
+Vodka
+Amaretto
+Sloe gin
+Triple sec
+Jus de cranberry
+
+# Cocktail #995
+Gin
+Cognac
+Creme de Cassis
+Fresh Lemon Juice
+
+# Cocktail #996
+Absolut Citron
+Jus de citron vert
+Cointreau
+Jus de cranberry
+
+# Cocktail #997
+Vodka
+Kahlua
+Bailey's irish cream
+
+# Cocktail #998
+Rhum léger
+Jus de pamplemousse
+Bitters
+
+# Cocktail #999
+Rhum brun
+Jus de citron
+Grenadine
+
+# Cocktail #1000
+Scotch
+Sweet Vermouth
+Orange bitters
+Olive
+
+# Cocktail #1001
+Apricot brandy
+Triple sec
+Jus de citron
+Strawberries
+Sel
+
+# Cocktail #1002
+Blended whiskey
+Citron
+Sucre en poudre
+Blanc d'oeuf
+Citron
+Cerise
+
+# Cocktail #1003
+Amaretto
+Vodka
+Rhum ambré 151 Proof
+Dr. Pepper
+Bière
+
+# Cocktail #1004
+Vodka
+Creme de Cassis
+Sugar Syrup
+Jus de citron
+
+# Cocktail #1005
+Scotch
+Amaretto
+
+# Cocktail #1006
+Vodka
+Jus de tomate
+Jus de citron
+Worcestershire sauce
+Tabasco sauce
+Citron vert
+
+# Cocktail #1007
+Tequila
+Jus de citron vert
+Agave syrup
+
+# Cocktail #1008
+Vodka
+Creme de Banane
+Grenadine
+Jus d'orange
+
+# Cocktail #1009
+Gin
+Tonic water
+
+# Cocktail #1010
+Rhum léger
+Sweet Vermouth
+Citron
+Sucre en poudre
+Eau pétillante
+
+# Cocktail #1011
+Gin
+Triple sec
+Jus d'ananas
+
+# Cocktail #1012
+Rhum Malibu
+Rhum léger
+Rhum ambré 151 Proof
+Sucre en poudre
+Bitters
+Eau
+Sucre
+Cloves
+Cannelle
+Zeste de citron
+Vin rouge
+Brandy
+
+# Cocktail #1013
+Rhum léger
+Porto
+Citron
+Sucre en poudre
+Porto
+Blanc d'oeuf
+Eau pétillante
+
+# Cocktail #1014
+Gin
+Apricot Brandy
+Jus d'orange
+
+# Cocktail #1015
+Gin
+Citron
+Sucre en poudre
+Eau pétillante
+
+# Cocktail #1016
+Dry Vermouth
+Gin
+Kummel
+
+# Cocktail #1017
+Bacardi Limon
+Coca-Cola
+
+# Cocktail #1018
+Dry Vermouth
+Gin
+Benedictine
+Jus d'orange
+Grenadine
+
+# Cocktail #1019
+Bourbon
+Angostura bitters
+Glaçons
+Maraschino cherry
+
+# Cocktail #1020
+Absolut Vodka
+Jus de cranberry
+Ginger ale
+Glaçons
+
+# Cocktail #1021
+Gin
+Triple sec
+Jus de citron
+
+# Cocktail #1022
+Sucre
+Eau
+Jus de citron
+Bourbon
+Zeste de citron
+
+# Cocktail #1023
+Gin
+Vodka
+Lillet Blanc
+
+# Cocktail #1024
+Brandy
+Triple sec
+Citron
+
+# Cocktail #1025
+Gin
+Citron
+Sucre en poudre
+Blanc d'oeuf
+Citron
+Cerise
+
+# Cocktail #1026
+Bitters
+Eau
+Sucre
+Café
+Vanilla
+Vodka
+Caramel coloring
+
+# Cocktail #1027
+Scotch
+Sweet Vermouth
+Dry Vermouth
+Orange bitters
+
+# Cocktail #1028
+Kahlua
+Sambuca
+Blue Curacao
+Bailey's irish cream
+
+# Cocktail #1029
+Rhum léger
+Cherry brandy
+Crème légère
+
+# Cocktail #1030
+Vodka
+Lemonade
+Eau
+Vodka
+
+# Cocktail #1031
+Gin
+Jus de citron
+Sucre
+Grenadine
+Maraschino cherry
+Orange
+
+# Cocktail #1032
+Vodka
+Jus d'orange
+
+# Cocktail #1033
+Vodka
+Grape soda
+Jus d'orange
+Glaçons
+
+# Cocktail #1034
+Gin
+Jus de citron
+Sucre
+Eau pétillante
+Maraschino cherry
+Orange
+
+# Cocktail #1035
+Vin rouge
+Sucre
+Eau
+Apple
+Orange
+Citron vert
+Citron
+Citron vert
+Citron
+Fresca
+
+# Cocktail #1036
+Rhum léger
+Triple sec
+Jus de citron vert
+Sucre
+Cerise
+Glaçons
+
+# Cocktail #1037
+Absolut Citron
+Orange Curacao
+Strawberry liqueur
+Jus d'orange
+
+# Cocktail #1038
+Bourbon
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #1039
+Lager
+Cider
+
+# Cocktail #1040
+Vodka
+Kahlua
+Coca-Cola
+Guinness stout
+
+# Cocktail #1041
+Rhum léger
+Jus de citron vert
+Sucre en poudre
+Strawberries
+
+# Cocktail #1042
+Rhum brun
+Peach nectar
+Jus d'orange
+
+# Cocktail #1043
+Sucre
+Eau pétillante
+Citron
+Rhum brun
+Maraschino cherry
+Orange
+
+# Cocktail #1044
+Vodka
+Amaretto
+
+# Cocktail #1045
+Vodka
+Kirschwasser
+Strawberry liqueur
+Strawberries
+Schweppes Russchian
+
+# Cocktail #1046
+Brandy
+Anisette
+
+# Cocktail #1047
+Gin
+Grenadine
+Citron
+
+# Cocktail #1048
+Gin
+Citron
+Sucre en poudre
+Eau
+Zeste d'orange
+
+# Cocktail #1049
+Lemonade
+Eau
+Vodka
+
+# Cocktail #1050
+Vodka
+Amaretto
+
+# Cocktail #1051
+Bailey's irish cream
+White Creme de Menthe
+
+# Cocktail #1052
+Vodka
+Jus de citron vert
+Eau pétillante
+
+# Cocktail #1053
+Cointreau
+Vodka
+Citron vert
+Angostura bitters
+Tonic water
+Glaçons
+
+# Cocktail #1054
+Brandy
+Rhum léger
+Bourbon
+Citron
+Sucre en poudre
+Cerise
+Citron
+
+# Cocktail #1055
+Vodka
+Coconut liqueur
+Blue Curacao
+Sprite
+
+# Cocktail #1056
+Gin
+Citron
+Sucre en poudre
+Blanc d'oeuf
+Citron
+Cerise
+
+# Cocktail #1057
+Scotch
+Sweet Vermouth
+Dry Vermouth
+Eau pétillante
+Zeste de citron
+
+# Cocktail #1058
+Gin
+7-Up
+Jus de citron
+
+# Cocktail #1059
+Tequila
+Tabasco sauce
+
+# Cocktail #1060
+Rhum léger
+Citron vert
+Sucre en poudre
+
+# Cocktail #1061
+Vodka
+Peach schnapps
+Jus d'orange
+Jus de cranberry
+
+# Cocktail #1062
+Vodka
+Midori melon liqueur
+Sweet and sour
+
+# Cocktail #1063
+Vodka
+Jus de cranberry
+Jus de pamplemousse
+
+# Cocktail #1064
+Sucre
+Eau
+Apple
+Orange
+Citron vert
+Citron
+Citron vert
+
+# Cocktail #1065
+Gin
+Triple sec
+Jus de citron
+
+# Cocktail #1066
+Vodka
+Rhum Malibu
+Gold tequila
+Jus d'orange
+Jus d'ananas
+Jus de cranberry
+
+# Cocktail #1067
+Gin
+Jus de citron
+maraschino liqueur
+
+# Cocktail #1068
+Gin
+Grenadine
+Sucre en poudre
+Ananas
+Strawberries
+Eau pétillante
+
+# Cocktail #1069
+Absolut Citron
+Jus de citron vert
+Glaçons
+Tonic water
+
+# Cocktail #1070
+Gin
+Jus de citron
+Sucre
+Grenadine
+Maraschino cherry
+Orange
+
+# Cocktail #1071
+Amaretto
+Grand Marnier
+Southern Comfort
+
+# Cocktail #1072
+Brandy
+Triple sec
+Citron
+
+# Cocktail #1073
+Jus de pomme
+Rhum Malibu
+Cannelle
+
+# Cocktail #1074
+Amaretto
+Jus de citron vert
+Eau pétillante
+
+# Cocktail #1075
+Vodka
+Dry Vermouth
+Olive Brine
+Citron
+Olive
+
+# Cocktail #1076
+Scotch
+Vin
+
+# Cocktail #1077
+Whiskey
+Hot Damn
+
+# Cocktail #1078
+Gin
+Sucre
+Jus de citron
+Champagne
+Orange
+Maraschino cherry
+
+# Cocktail #1079
+Blended whiskey
+Citron
+Sucre en poudre
+Blanc d'oeuf
+Eau pétillante
+
+# Cocktail #1080
+Vodka
+Cherry liqueur
+Jus de cranberry
+Jus d'orange
+
+# Cocktail #1081
+Gin
+Crème légère
+Sucre en poudre
+Oeuf
+Noix de muscade
+
+# Cocktail #1082
+Scotch
+Drambuie
+Zeste de citron
+
+# Cocktail #1083
+Gin
+Jus de citron
+maraschino liqueur
+
+# Cocktail #1084
+Gin
+Sweet and sour
+Oeuf
+Coca-Cola
+
+# Cocktail #1085
+Scotch
+Sweet Vermouth
+Bitters
+Sugar syrup
+
+# Cocktail #1086
+Vodka
+Cherry liqueur
+Jus de cranberry
+Jus d'orange
+
+# Cocktail #1087
+Tequila
+Jus de tomate
+Jus de citron
+Worcestershire sauce
+Tabasco sauce
+Citron vert
+
+# Cocktail #1088
+Irish whiskey
+Peach brandy
+Jus d'orange
+Sweet and sour
+Orange
+Cerise
+
+# Cocktail #1089
+Vodka
+Bailey's irish cream
+Kahlua
+
+# Cocktail #1090
+Applejack
+Triple sec
+Jus de citron
+Grenadine
+Blanc d'oeuf
+
+# Cocktail #1091
+Green Creme de Menthe
+Creme de Cacao
+Crème légère
+
+# Cocktail #1092
+Scotch
+Half-and-half
+Condensed milk
+Coconut syrup
+Chocolate syrup
+
+# Cocktail #1093
+Gin
+Campari
+Sweet Vermouth
+
+# Cocktail #1094
+Gin
+Jus de citron
+Sugar syrup
+Creme de Mure
+
+# Cocktail #1095
+Rhum épicé
+Ginger ale
+
+# Cocktail #1096
+Sucre
+Eau
+
+# Cocktail #1097
+Amaretto
+Citron vert
+
+# Cocktail #1098
+Kahlua
+Bailey's irish cream
+
+# Cocktail #1099
+Gin
+7-Up
+Jus de citron
+
+# Cocktail #1100
+Gin
+Grenadine
+Citron
+Blanc d'oeuf
+
+# Cocktail #1101
+Vodka
+Tonic water
+
+# Cocktail #1102
+Gin
+Grand Marnier
+Jus de citron
+Zeste de citron
+
+# Cocktail #1103
+Gin
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #1104
+Dry Vermouth
+Gin
+Anis
+Bitters
+Zeste d'orange
+
+# Cocktail #1105
+Dry Vermouth
+Gin
+Kummel
+
+# Cocktail #1106
+Café
+Everclear
+
+# Cocktail #1107
+Sweet Vermouth
+Dry Vermouth
+Orange bitters
+
+# Cocktail #1108
+Rhum léger
+Rhum Añejo
+Jus d'orange
+Jus de citron
+
+# Cocktail #1109
+Kahlua
+Sambuca
+Grand Marnier
+
+# Cocktail #1110
+Rhum léger
+Triple sec
+Jus de citron vert
+Sucre
+
+# Cocktail #1111
+Tequila
+Tabasco sauce
+
+# Cocktail #1112
+Rhum léger
+Brandy
+Triple sec
+Citron vert
+
+# Cocktail #1113
+Gin
+Grenadine
+Crème légère
+Blanc d'oeuf
+
+# Cocktail #1114
+Gin
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #1115
+Café
+Peach schnapps
+
+# Cocktail #1116
+Irish whiskey
+Peach brandy
+Jus d'orange
+Sweet and sour
+
+# Cocktail #1117
+Scotch
+Half-and-half
+Condensed milk
+Coconut syrup
+Chocolate syrup
+
+# Cocktail #1118
+Gin
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #1119
+Sweet Vermouth
+Scotch
+Benedictine
+Zeste de citron
+
+# Cocktail #1120
+Gin
+Grenadine
+Sucre en poudre
+
+# Cocktail #1121
+Gin
+Benedictine
+
+# Cocktail #1122
+Gin
+Ginger ale
+Citron vert
+Glaçons
+
+# Cocktail #1123
+Vodka
+Jus d'orange
+
+# Cocktail #1124
+Apricot brandy
+Champagne
+Vodka
+7-Up
+Jus d'orange
+
+# Cocktail #1125
+Gin
+Grenadine
+Sucre en poudre
+Ananas
+Strawberries
+Eau pétillante
+
+# Cocktail #1126
+Rhum
+Vodka
+Gin
+Blue Curacao
+Sour mix
+Soda citron-citron vert
+
+# Cocktail #1127
+Scotch
+Sweet Vermouth
+Dry Vermouth
+Orange bitters
+
+# Cocktail #1128
+Brandy
+Citron
+Sucre en poudre
+Citron
+Cerise
+
+# Cocktail #1129
+Absolut Vodka
+Cointreau
+Citron
+
+# Cocktail #1130
+Rhum léger
+Triple sec
+Jus de citron vert
+
+# Cocktail #1131
+Gin
+7-Up
+Jus de citron
+
+# Cocktail #1132
+Applejack
+Jus de pamplemousse
+
+# Cocktail #1133
+Gin
+Jus de cranberry
+Grenadine
+
+# Cocktail #1134
+Vodka
+Peach schnapps
+Jus d'orange
+Jus de cranberry
+
+# Cocktail #1135
+Gin
+Grenadine
+Crème épaisse
+Milk
+Blanc d'oeuf
+
+# Cocktail #1136
+Brandy
+White Creme de Menthe
+
+# Cocktail #1137
+Rhum épicé
+Ginger ale
+Citron vert
+Glaçons
+
+# Cocktail #1138
+Bourbon
+Rhum brun
+Crème épaisse
+
+# Cocktail #1139
+Vodka
+Southern Comfort
+Passion fruit syrup
+Sweet and sour
+Eau pétillante
+
+# Cocktail #1140
+Blue Curacao
+Blueberry schnapps
+Vodka
+Sour mix
+7-Up
+
+# Cocktail #1141
+Vodka
+Jello
+Eau
+
+# Cocktail #1142
+Gin
+Grenadine
+Sucre en poudre
+Ananas
+Strawberries
+Eau pétillante
+
+# Cocktail #1143
+Vodka
+Schweppes Russchian
+
+# Cocktail #1144
+Gin
+Grenadine
+Citron
+
+# Cocktail #1145
+Kahlua
+Bailey's irish cream
+
+# Cocktail #1146
+Rhum ambré 151 Proof
+Wild Turkey
+
+# Cocktail #1147
+Rhum léger
+Apricot brandy
+Triple sec
+Jus de citron
+
+# Cocktail #1148
+Rhum léger
+Jus d'orange
+
+# Cocktail #1149
+Tequila
+Tabasco sauce
+
+# Cocktail #1150
+Black Sambuca
+Jus d'orange
+
+# Cocktail #1151
+Tequila
+Tabasco sauce
+
+# Cocktail #1152
+Sucre
+Eau
+Jus de citron
+Bourbon
+Zeste de citron
+
+# Cocktail #1153
+Amaretto
+Sweet and sour
+Midori melon liqueur
+Jus d'ananas
+
+# Cocktail #1154
+Brandy
+Oeuf
+Sucre
+Crème légère
+Noix de muscade
+
+# Cocktail #1155
+Amaretto
+Southern Comfort
+Glaçons
+Sour mix
+
+# Cocktail #1156
+Gin
+Orange bitters
+Orange
+Cerise
+
+# Cocktail #1157
+Amaretto
+Creme de Cacao
+Crème légère
+
+# Cocktail #1158
+Amaretto
+Jus d'orange
+Grenadine
+
+# Cocktail #1159
+Vodka
+Jus de citron vert
+Ginger ale
+
+# Cocktail #1160
+Rhum léger
+Ananas
+Jus de citron vert
+Sucre
+Cerise
+
+# Cocktail #1161
+Vodka
+Rhum Malibu
+Gold tequila
+Jus d'orange
+Jus d'ananas
+Jus de cranberry
+
+# Cocktail #1162
+Crown Royal
+Amaretto
+Jus de cranberry
+
+# Cocktail #1163
+Rhum brun
+Jus de citron
+Grenadine
+
+# Cocktail #1164
+Rhum léger
+Porto
+Citron
+Sucre en poudre
+Eau
+Zeste d'orange
+
+# Cocktail #1165
+Vodka
+Kahlua
+Bailey's irish cream
+
+# Cocktail #1166
+Vodka
+Peach schnapps
+Jus de cranberry
+Jus de pamplemousse
+
+# Cocktail #1167
+Vodka
+Pisang Ambon
+Jus de pomme
+Jus de citron
+Lemonade
+
+# Cocktail #1168
+Brandy
+Triple sec
+Citron
+
+# Cocktail #1169
+Gin
+Triple sec
+Jus d'ananas
+
+# Cocktail #1170
+Absolut Vodka
+Jus de cranberry
+Ginger ale
+Glaçons
+
+# Cocktail #1171
+Rhum léger
+Brandy
+Citron
+Raspberry syrup
+
+# Cocktail #1172
+Gin
+Triple sec
+Jus d'ananas
+
+# Cocktail #1173
+Sweet Vermouth
+Sherry
+Orange bitters
+
+# Cocktail #1174
+Cointreau
+Jus de citron
+Glaçons
+Citron
+
+# Cocktail #1175
+Kiwi liqueur
+Bitter lemon
+Glaçons
+
+# Cocktail #1176
+Gin
+Maraschino liqueur
+Orange bitters
+
+# Cocktail #1177
+Bailey's irish cream
+Frangelico
+
+# Cocktail #1178
+Vodka
+Iced tea
+Jus de citron
+
+# Cocktail #1179
+Lager
+Cider
+Blackcurrant cordial
+
+# Cocktail #1180
+Corona
+Bacardi Limon
+
+# Cocktail #1181
+Vodka
+Lemonade
+Eau
+Vodka
+
+# Cocktail #1182
+Vodka
+Jus de citron vert
+Ginger ale
+
+# Cocktail #1183
+Scotch
+Sweet Vermouth
+Bitters
+Sugar syrup
+
+# Cocktail #1184
+Gin
+Sweet Vermouth
+Brandy
+
+# Cocktail #1185
+Vodka
+Amaretto
+
+# Cocktail #1186
+Brandy
+Triple sec
+Jus de citron
+
+# Cocktail #1187
+Sucre
+Eau pétillante
+Maraschino cherry
+Orange
+
+# Cocktail #1188
+Kahlua
+Midori melon liqueur
+Bailey's irish cream
+
+# Cocktail #1189
+Amaretto
+Grand Marnier
+Southern Comfort
+
+# Cocktail #1190
+Rhum léger
+Triple sec
+Jus de citron vert
+Sucre
+Gin
+Bitters
+Eau pétillante
+
+# Cocktail #1191
+Vodka
+Jus de citron vert
+Ginger ale
+
+# Cocktail #1192
+Pisco
+Jus de citron vert
+Pineapple Syrup
+St. Germain
+Angostura Bitters
+Pepper
+Lavender
+
+# Cocktail #1193
+Kahlua
+Bailey's irish cream
+Vanilla ice-cream
+Oreo cookie
+
+# Cocktail #1194
+Vodka
+Raspberry Liqueur
+Jus d'ananas
+
+# Cocktail #1195
+Kahlua
+Sambuca
+Blue Curacao
+Bailey's irish cream
+
+# Cocktail #1196
+Gin
+Grand Marnier
+Jus de citron
+Zeste de citron
+
+# Cocktail #1197
+Rhum
+Galliano
+Jus d'ananas
+Jus de citron vert
+Prosecco
+
+# Cocktail #1198
+Kahlua
+Sambuca
+Bailey's irish cream
+
+# Cocktail #1199
+Absolut Citron
+Sweet and sour
+Sprite
+Eau pétillante
+Citron
+
+# Cocktail #1200
+Rhum brun
+Orgeat syrup
+Jus d'orange
+Jus d'ananas
+Jus de cranberry
+
+# Cocktail #1201
+Vodka
+Raspberry Liqueur
+Jus d'ananas
+
+# Cocktail #1202
+Vodka
+Triple sec
+Jus de citron vert
+Sel
+
+# Cocktail #1203
+Bourbon
+Jus de citron
+Sucre
+Grenadine
+Maraschino cherry
+
+# Cocktail #1204
+Gin
+Triple sec
+Jus de citron
+Blanc d'oeuf
+Orange
+
+# Cocktail #1205
+Bourbon
+Benedictine
+Zeste de citron
+
+# Cocktail #1206
+Gin
+Grenadine
+Citron
+Blanc d'oeuf
+
+# Cocktail #1207
+Gin
+Triple sec
+Jus de citron
+
+# Cocktail #1208
+Gin
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #1209
+Vodka
+Jus de citron vert
+Ginger ale
+
+# Cocktail #1210
+Rhum léger
+Apricot brandy
+Triple sec
+Jus de citron
+Strawberries
+Sel
+
+# Cocktail #1211
+Tequila
+Citron
+Sucre en poudre
+Citron
+Cerise
+
+# Cocktail #1212
+Vodka
+Half-and-half
+Limeade
+Glaçons
+Noix de muscade
+
+# Cocktail #1213
+Vanilla Ice-Cream
+Milk
+Godiva liqueur
+Whipped Cream
+caramel sauce
+chocolate sauce
+Mini-snickers bars
+
+# Cocktail #1214
+Rhum léger
+Jus d'ananas
+Maraschino liqueur
+Grenadine
+Maraschino cherry
+Orange
+
+# Cocktail #1215
+Corona
+Rhum léger
+
+# Cocktail #1216
+Gin
+Brandy
+Sweet Vermouth
+Eau pétillante
+Zeste de citron
+
+# Cocktail #1217
+Gin
+Sweet and sour
+Eau pétillante
+
+# Cocktail #1218
+White Creme de Menthe
+Southern Comfort
+Vodka
+Hot chocolate
+
+# Cocktail #1219
+Bailey's irish cream
+Godiva liqueur
+Kahlua
+Butterscotch schnapps
+Milk
+
+# Cocktail #1220
+Gin
+Vodka
+Lillet Blanc
+
+# Cocktail #1221
+Grenadine
+Green Creme de Menthe
+
+# Cocktail #1222
+Gin
+Jus de cranberry
+Grenadine
+
+# Cocktail #1223
+Gin
+Jus de citron
+Sugar syrup
+Creme de Mure
+
+# Cocktail #1224
+Absolut Vodka
+Jus de cranberry
+Ginger ale
+Glaçons
+
+# Cocktail #1225
+Porto
+Brandy
+
+# Cocktail #1226
+Kahlua
+Brandy
+Café
+
+# Cocktail #1227
+Prosecco
+Campari
+Eau pétillante
+
+# Cocktail #1228
+Rhum
+Vodka
+Gin
+Blue Curacao
+Sour mix
+Soda citron-citron vert
+
+# Cocktail #1229
+Brandy
+White Creme de Menthe
+
+# Cocktail #1230
+Grenadine
+Kahlua
+Bailey's irish cream
+Frangelico
+Café
+Crème
+
+# Cocktail #1231
+Vodka
+Jus d'orange
+
+# Cocktail #1232
+Gin
+Apricot Brandy
+Jus d'orange
+
+# Cocktail #1233
+Rhum léger
+Brandy
+Citron
+Sucre en poudre
+Citron
+Cerise
+
+# Cocktail #1234
+Gin
+Vodka
+Grenadine
+Jus d'orange
+Sour mix
+
+# Cocktail #1235
+Gin
+Rhum léger
+Tequila
+Triple sec
+Vodka
+Crème légère
+
+# Cocktail #1236
+Gin
+Orange bitters
+Orange
+Cerise
+
+# Cocktail #1237
+Amaretto
+Sour mix
+
+# Cocktail #1238
+Gin
+Vin
+Benedictine
+Citron vert
+
+# Cocktail #1239
+Dry Vermouth
+Gin
+Apricot brandy
+Jus de citron
+
+# Cocktail #1240
+Rhum léger
+Citron vert
+Sucre
+Rhum blanc
+Glaçons
+
+# Cocktail #1241
+Gin
+Creme de Cacao
+Crème légère
+Noix de muscade
+
+# Cocktail #1242
+Gin
+Citron
+Sucre en poudre
+Cerise
+Citron
+
+# Cocktail #1243
+Gin
+Grenadine
+Crème épaisse
+Milk
+Blanc d'oeuf
+
+# Cocktail #1244
+Gin
+Vermouth
+
+# Cocktail #1245
+Kahlua
+Bailey's irish cream
+Frangelico
+Café
+Crème
+
+# Cocktail #1246
+Rhum léger
+Anisette
+Grenadine
+Citron
+Blanc d'oeuf
+Eau pétillante
+
+# Cocktail #1247
+Gin
+Crème légère
+Sucre en poudre
+Oeuf
+Noix de muscade
+
+# Cocktail #1248
+Prosecco
+Campari
+Eau pétillante
+
+# Cocktail #1249
+Rhum brun
+Kahlua
+Crème légère
+Noix de muscade
+
+# Cocktail #1250
+Gin
+Dry Vermouth
+Olive
+
+# Cocktail #1251
+Rhum léger
+Triple sec
+Jus de citron
+
+# Cocktail #1252
+Vin rouge
+Grenadine
+Soda citron-citron vert
+
+# Cocktail #1253
+Rhum brun
+Kahlua
+Crème légère
+Noix de muscade
+
+# Cocktail #1254
+Gin
+Campari
+Sweet Vermouth
+
+# Cocktail #1255
+Brandy
+Creme de Cacao
+Crème légère
+Noix de muscade
+
+# Cocktail #1256
+Orange
+Vodka
+Sucre
+
+# Cocktail #1257
+Gin
+Grenadine
+Citron
+
+# Cocktail #1258
+Gin
+Vermouth
+
+# Cocktail #1259
+Gin
+Eau pétillante
+Sucre en poudre
+Orange spiral
+Zeste de citron
+
+# Cocktail #1260
+Vermouth
+Jus de pomme
+
+# Cocktail #1261
+Gin
+Triple sec
+Jus d'ananas
+
+# Cocktail #1262
+Gin
+Grenadine
+Crème épaisse
+Milk
+Blanc d'oeuf
+
+# Cocktail #1263
+Scotch
+Drambuie
+Dry Vermouth
+Zeste de citron
+
+# Cocktail #1264
+Gin
+Jus de citron
+Maraschino liqueur
+Orange bitters
+
+# Cocktail #1265
+Absolut Vodka
+Gin
+Tonic water
+Citron vert
+
+# Cocktail #1266
+Vodka
+Kahlua
+Coca-Cola
+Guinness stout
+
+# Cocktail #1267
+Vodka
+Kahlua
+Bailey's irish cream
+Frangelico
+Milk
+
+# Cocktail #1268
+Kahlua
+Bailey's irish cream
+Goldschlager
+Crème épaisse
+Café
+
+# Cocktail #1269
+Vodka
+Jello
+Eau
+
+# Cocktail #1270
+Vodka
+Cherry liqueur
+Jus de cranberry
+Jus d'orange
+
+# Cocktail #1271
+Gin
+Jus de citron
+maraschino liqueur
+
+# Cocktail #1272
+Vodka
+Jus de tomate
+Jus de citron
+Tabasco sauce
+Sel de celeri
+Citron
+
+# Cocktail #1273
+Rhum léger
+Porto
+Citron
+Sucre en poudre
+Eau pétillante
+
+# Cocktail #1274
+Café
+Vanilla extract
+Eau
+Vodka
+
+# Cocktail #1275
+Tequila
+Jus de citron vert
+Agave syrup
+
+# Cocktail #1276
+Rhum ambré 151 Proof
+Rhum Malibu
+Jus d'ananas
+Jus d'orange
+Grenadine
+
+# Cocktail #1277
+Gin
+Eau
+Sucre en poudre
+Zeste de citron
+Eau
+
+# Cocktail #1278
+Jus de citron vert
+Sucre
+Cerise
+
+# Cocktail #1279
+Vodka
+Triple sec
+Tequila
+Melon liqueur
+Mountain Dew
+
+# Cocktail #1280
+Lager
+Cider
+Blackcurrant squash
+
+# Cocktail #1281
+Sweet Vermouth
+Sloe gin
+Vin
+
+# Cocktail #1282
+Blended whiskey
+Citron
+Sucre en poudre
+Eau pétillante
+
+# Cocktail #1283
+Amaretto
+Citron
+Glaçons
+
+# Cocktail #1284
+Scotch
+Sweet Vermouth
+Dry Vermouth
+Bitters
+Maraschino liqueur
+Maraschino cherry
+
+# Cocktail #1285
+Vodka
+Amaretto
+Crème épaisse
+
+# Cocktail #1286
+Corona
+Bacardi Limon
+
+# Cocktail #1287
+Sucre
+Citron vert
+Cachaca
+
+# Cocktail #1288
+Amaretto
+Jägermeister
+Kahlua
+Milk
+
+# Cocktail #1289
+Gin
+Grenadine
+Crème légère
+Blanc d'oeuf
+
+# Cocktail #1290
+Scotch
+Drambuie
+Dry Vermouth
+Zeste de citron
+
+# Cocktail #1291
+Lager
+Campari
+
+# Cocktail #1292
+Gin
+Triple sec
+Jus d'ananas
+
+# Cocktail #1293
+Gin
+Brandy
+Sweet Vermouth
+Eau pétillante
+
+# Cocktail #1294
+Gin
+Sweet Vermouth
+Brandy
+
+# Cocktail #1295
+Gin
+Vodka
+Lillet Blanc
+
+# Cocktail #1296
+Amaretto
+Dark Creme de Cacao
+Café
+
+# Cocktail #1297
+Glaçons
+Tennessee whiskey
+Vanilla extract
+Coca-Cola
+
+# Cocktail #1298
+Gin
+Cognac
+Creme de Cassis
+Fresh Lemon Juice
+
+# Cocktail #1299
+Peach Vodka
+Coca-Cola
+
+# Cocktail #1300
+Rhum léger
+Jus de citron vert
+Menthe
+Sucre
+
+# Cocktail #1301
+Gin
+Triple sec
+
+# Cocktail #1302
+Bitters
+Gin
+
+# Cocktail #1303
+Amaretto
+Dark Creme de Cacao
+Café
+
+# Cocktail #1304
+Kahlua
+Midori melon liqueur
+Bailey's irish cream
+
+# Cocktail #1305
+Gin
+7-Up
+Jus de citron
+
+# Cocktail #1306
+Gin
+Grand Marnier
+Jus de citron
+Zeste de citron
+
+# Cocktail #1307
+Gin
+Citron
+Sucre en poudre
+Eau
+Zeste d'orange
+
+# Cocktail #1308
+Chambord raspberry liqueur
+Vodka
+Eau pétillante
+
+# Cocktail #1309
+Gin
+Grand Marnier
+
+# Cocktail #1310
+Scotch
+Citron vert
+Sucre en poudre
+
+# Cocktail #1311
+Vodka
+Galliano
+Jus d'orange
+
+# Cocktail #1312
+Gin
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #1313
+Bourbon
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #1314
+Gin
+Jus de citron
+Sugar syrup
+Creme de Mure
+
+# Cocktail #1315
+Gin
+Sucre
+Jus de citron
+Champagne
+Orange
+Maraschino cherry
+
+# Cocktail #1316
+Lager
+Campari
+
+# Cocktail #1317
+Vodka
+Gin
+Jus de citron+citron vert+sucre
+Glaçons
+
+# Cocktail #1318
+Vodka
+Jus de cranberry
+Champagne
+
+# Cocktail #1319
+Vodka
+Dry Vermouth
+Olive Brine
+Citron
+Olive
+
+# Cocktail #1320
+Vodka
+Creme de Banane
+Grenadine
+Jus d'orange
+
+# Cocktail #1321
+Amaretto
+Sour mix
+
+# Cocktail #1322
+Gin
+Jus de citron
+Sucre
+Glaçons
+
+# Cocktail #1323
+Gin
+Citron
+Sucre en poudre
+Blanc d'oeuf
+Citron
+Cerise
+
+# Cocktail #1324
+Absolut Citron
+Pisang Ambon
+Glaçons
+Bitter lemon
+
+# Cocktail #1325
+Vodka
+Jello
+Eau
+
+# Cocktail #1326
+Bailey's irish cream
+Godiva liqueur
+Kahlua
+Butterscotch schnapps
+Milk
+
+# Cocktail #1327
+Gin
+Benedictine
+
+# Cocktail #1328
+Gin
+Grenadine
+Citron
+Eau pétillante
+Citron vert
+
+# Cocktail #1329
+Gin
+Triple sec
+
+# Cocktail #1330
+Angelica root
+Almond
+Allspice
+Cannelle
+Anise
+Coriander
+Marjoram leaves
+Vodka
+Sucre
+Anise
+Licorice root
+Wormwood
+
+# Cocktail #1331
+Peachtree schnapps
+Surge
+
+# Cocktail #1332
+Vodka
+Jus de citron vert
+Eau pétillante
+
+# Cocktail #1333
+Rhum léger
+Jus d'orange
+
+# Cocktail #1334
+Scotch
+Drambuie
+Zeste de citron
+
+# Cocktail #1335
+Vodka
+Grape soda
+Jus d'orange
+Glaçons
+
+# Cocktail #1336
+Brandy
+Gin
+Sweet Vermouth
+Eau pétillante
+
+# Cocktail #1337
+Rhum léger
+Citron vert
+Coca-Cola
+
+# Cocktail #1338
+Sucre
+Eau
+Apple
+Orange
+Citron vert
+Citron
+Citron vert
+
+# Cocktail #1339
+Vodka
+Peach schnapps
+Jus de cranberry
+Jus de pamplemousse
+
+# Cocktail #1340
+Amaretto
+Citron vert
+
+# Cocktail #1341
+Vin rouge
+Peach schnapps
+Pepsi Cola
+Jus d'orange
+
+# Cocktail #1342
+Vodka
+Kirschwasser
+Strawberry liqueur
+Strawberries
+Schweppes Russchian
+
+# Cocktail #1343
+Kahlua
+Bailey's irish cream
+Frangelico
+Café
+Crème
+
+# Cocktail #1344
+Rhum léger
+Sweet Vermouth
+Citron
+Sucre en poudre
+Blanc d'oeuf
+Citron
+Cerise
+
+# Cocktail #1345
+Kahlua
+Sambuca
+Grand Marnier
+
+# Cocktail #1346
+Cider
+Lager
+Blue Curacao
+
+# Cocktail #1347
+Kahlua
+Bailey's irish cream
+Frangelico
+Café
+Crème
+
+# Cocktail #1348
+Brandy
+Creme de Cacao
+Crème légère
+
+# Cocktail #1349
+Vodka
+Citron vert
+Jus de cranberry
+
+# Cocktail #1350
+Dry Vermouth
+Gin
+Apricot brandy
+Jus de citron
+
+# Cocktail #1351
+Green Creme de Menthe
+Creme de Cacao
+Crème légère
+Noix de muscade
+
+# Cocktail #1352
+Gin
+Vodka
+Grenadine
+Jus de citron vert
+Sucre
+Gin
+Bitters
+Zeste de citron
+
+# Cocktail #1353
+Tequila
+Apple cider
+
+# Cocktail #1354
+Vodka
+Jus de cranberry
+Champagne
+
+# Cocktail #1355
+Rhum léger
+Blended whiskey
+Citron
+Sucre en poudre
+Cerise
+Citron
+
+# Cocktail #1356
+Rhum léger
+Triple sec
+Jus de citron vert
+
+# Cocktail #1357
+Gin
+Jus de citron
+Sugar syrup
+Creme de Mure
+
+# Cocktail #1358
+Vodka
+Kahlua
+Coca-Cola
+Guinness stout
+
+# Cocktail #1359
+Brandy
+Rhum léger
+Bourbon
+Citron
+Sucre en poudre
+Cerise
+Citron
+
+# Cocktail #1360
+Bière
+7-Up
+
+# Cocktail #1361
+Bourbon
+Angostura bitters
+Glaçons
+Maraschino cherry
+
+# Cocktail #1362
+Rhum ambré 151 Proof
+Wild Turkey
+
+# Cocktail #1363
+Kahlua
+Bailey's irish cream
+
+# Cocktail #1364
+Apricot brandy
+Apple brandy
+Gin
+
+# Cocktail #1365
+Peach Vodka
+Coca-Cola
+
+# Cocktail #1366
+Vodka
+Kahlua
+Bailey's irish cream
+Frangelico
+Café
+Crème
+
+# Cocktail #1367
+Vodka
+Blue Curacao
+Triple sec
+Sucre
+Glaçons
+
+# Cocktail #1368
+Kahlua
+Bailey's irish cream
+
+# Cocktail #1369
+Creme de Cacao
+Amaretto
+Triple sec
+Vodka
+Coca-Cola
+Sweet and sour
+Bitters
+Citron
+
+# Cocktail #1370
+Apricot brandy
+Triple sec
+Jus de citron
+
+# Cocktail #1371
+Vodka
+Peach schnapps
+Jus de cranberry
+Jus de pamplemousse
+
+# Cocktail #1372
+Gin
+Eau pétillante
+Sucre en poudre
+Orange spiral
+Zeste de citron
+
+# Cocktail #1373
+Bourbon
+Benedictine
+
+# Cocktail #1374
+Vodka
+Jus de tomate
+Jus de citron
+Tabasco sauce
+Sel de celeri
+Citron
+
+# Cocktail #1375
+Gin
+Vodka
+Grenadine
+Jus d'orange
+Sour mix
+
+# Cocktail #1376
+Gin
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #1377
+Vodka
+Banana liqueur
+Jus d'orange
+Peach schnapps
+
+# Cocktail #1378
+Lager
+Tequila
+
+# Cocktail #1379
+Amaretto
+Southern Comfort
+Glaçons
+Sour mix
+
+# Cocktail #1380
+Bourbon
+Angostura bitters
+Sucre
+Eau
+
+# Cocktail #1381
+Vodka
+Creme de Cassis
+Sugar Syrup
+Jus de citron
+
+# Cocktail #1382
+Vodka
+Grenadine
+Jus d'orange
+Sour mix
+
+# Cocktail #1383
+Vodka
+Jus de tomate
+Jus de citron
+Tabasco sauce
+Sel de celeri
+Citron
+
+# Cocktail #1384
+Eau pétillante
+Gin
+Dry Vermouth
+Eau pétillante
+Zeste de citron
+
+# Cocktail #1385
+Sweet Vermouth
+Sherry
+Orange bitters
+
+# Cocktail #1386
+Rhum ambré 151 Proof
+Kool-Aid
+
+# Cocktail #1387
+Ouzo
+Bailey's irish cream
+Gin
+Grand Marnier
+Jus de citron
+Eau pétillante
+
+# Cocktail #1388
+Gin
+Sucre
+Jus de citron
+Champagne
+Orange
+Maraschino cherry
+
+# Cocktail #1389
+Vodka
+Kahlua
+Coca-Cola
+Guinness stout
+
+# Cocktail #1390
+Gin
+Cognac
+Creme de Cassis
+Fresh Lemon Juice
+
+# Cocktail #1391
+Gin
+Jus de citron
+Sucre
+Grenadine
+Maraschino cherry
+
+# Cocktail #1392
+Amaretto
+Grand Marnier
+Southern Comfort
+
+# Cocktail #1393
+Lager
+Cider
+Blackcurrant cordial
+
+# Cocktail #1394
+Gin
+Apricot Brandy
+Jus d'orange
+
+# Cocktail #1395
+Tea
+Amaretto
+Whipped cream
+
+# Cocktail #1396
+Ricard
+Sucre
+Peychaud bitters
+Eau
+Bourbon
+Zeste de citron
+
+# Cocktail #1397
+Rhum
+Ginger ale
+Fruit punch
+Jus d'orange
+Glaçons
+
+# Cocktail #1398
+Sucre
+Eau
+Jus de citron
+Bourbon
+Zeste de citron
+
+# Cocktail #1399
+Vodka
+Creme de Cassis
+Sugar Syrup
+Jus de citron
+
+# Cocktail #1400
+Sucre
+Eau
+Abricot
+Almond flavoring
+Grain alcohol
+Eau
+Brandy
+Food coloring
+Food coloring
+
+# Cocktail #1401
+Vodka
+Rhum léger
+Gin
+Tequila
+Citron
+Coca-Cola
+
+# Cocktail #1402
+Brandy
+Rhum léger
+Triple sec
+Jus de citron vert
+Sucre
+Gin
+Bitters
+Zeste de citron
+Cognac
+
+# Cocktail #1403
+Vin rouge
+Sucre
+Jus d'orange
+Jus de citron
+
+# Cocktail #1404
+Vodka
+Creme de Banane
+Grenadine
+Jus d'orange
+
+# Cocktail #1405
+Brandy
+Creme de Cacao
+Crème légère
+
+# Cocktail #1406
+Gin
+Triple sec
+Jus d'ananas
+
+# Cocktail #1407
+Vodka
+Amaretto
+Crème épaisse
+
+# Cocktail #1408
+Corona
+Rhum léger
+
+# Cocktail #1409
+Sucre
+Eau pétillante
+Citron
+Brandy
+Maraschino cherry
+Orange
+
+# Cocktail #1410
+Rhum léger
+Citron vert
+Sucre
+Menthe
+Orange
+Cerise
+
+# Cocktail #1411
+Gin
+Eau
+Sucre en poudre
+Zeste de citron
+Eau
+
+# Cocktail #1412
+Amaretto
+Grand Marnier
+Southern Comfort
+
+# Cocktail #1413
+Kahlua
+Sambuca
+Grand Marnier
+
+# Cocktail #1414
+Vodka
+Amaretto
+Crème épaisse
+
+# Cocktail #1415
+Gin
+Jus de citron
+Sugar syrup
+Creme de Mure
+
+# Cocktail #1416
+Tequila
+Tabasco sauce
+
+# Cocktail #1417
+Vodka
+Jus de citron
+Grape juice
+Sucre en poudre
+Orange
+
+# Cocktail #1418
+Gin
+Triple sec
+Chambord raspberry liqueur
+Midori melon liqueur
+Rhum Malibu
+Amaretto
+Jus de cranberry
+Jus d'ananas
+
+# Cocktail #1419
+Gin
+7-Up
+Jus de citron
+
+# Cocktail #1420
+Vodka
+Amaretto
+
+# Cocktail #1421
+Rhum
+Soda citron-citron vert
+Citron
+
+# Cocktail #1422
+Amaretto
+Southern Comfort
+Glaçons
+Sour mix
+
+# Cocktail #1423
+Jus de pomme
+Rhum Malibu
+Cannelle
+
+# Cocktail #1424
+Tequila
+Jus d'orange
+
+# Cocktail #1425
+Amaretto
+Citron
+Glaçons
+Maraschino cherry
+
+# Cocktail #1426
+Vodka
+Rhum Malibu
+Gold tequila
+Jus d'orange
+Jus d'ananas
+Jus de cranberry
+
+# Cocktail #1427
+Absolut Citron
+Jus de citron vert
+Cointreau
+Jus de cranberry
+
+# Cocktail #1428
+Gin
+Grenadine
+Citron
+Blanc d'oeuf
+
+# Cocktail #1429
+Brandy
+Oeuf
+Sucre
+Crème légère
+Noix de muscade
+
+# Cocktail #1430
+Blended whiskey
+Citron
+Sucre en poudre
+Blanc d'oeuf
+Citron
+Cerise
+
+# Cocktail #1431
+Amaretto
+Southern Comfort
+Glaçons
+Sour mix
+
+# Cocktail #1432
+Gin
+Benedictine
+
+# Cocktail #1433
+Gin
+Vodka
+Grenadine
+Jus de citron vert
+Sucre
+Blanc d'oeuf
+Menthe
+
+# Cocktail #1434
+Lager
+Cider
+
+# Cocktail #1435
+Tequila
+Jus de tomate
+Jus de citron
+Tabasco sauce
+Sel de celeri
+Citron
+
+# Cocktail #1436
+Scotch
+Brandy
+Curacao
+Orange
+Menthe
+
+# Cocktail #1437
+Brandy
+Rhum léger
+Triple sec
+Jus de citron
+
+# Cocktail #1438
+Amaretto
+Jägermeister
+Kahlua
+Milk
+Vanilla ice-cream
+
+# Cocktail #1439
+Rhum épicé
+Ginger ale
+Citron vert
+
+# Cocktail #1440
+Prosecco
+Campari
+Eau pétillante
+
+# Cocktail #1441
+Vodka
+Amaretto
+Sloe gin
+Jus de citron
+
+# Cocktail #1442
+Vodka
+Jus de cranberry
+Champagne
+
+# Cocktail #1443
+Gin
+Triple sec
+Jus de citron
+Blanc d'oeuf
+Orange
+
+# Cocktail #1444
+Vodka
+Creme de Banane
+Jus d'orange
+
+# Cocktail #1445
+Vodka
+Cherry liqueur
+Jus de cranberry
+Jus d'orange
+
+# Cocktail #1446
+Vodka
+Triple sec
+Jus d'orange
+
+# Cocktail #1447
+gin
+Peach Bitters
+Menthe
+
+# Cocktail #1448
+Absolut Citron
+Jus de citron vert
+Cointreau
+Jus de cranberry
+
+# Cocktail #1449
+Vodka
+Dry Vermouth
+Olive
+
+# Cocktail #1450
+Vodka
+Rhum léger
+Gin
+Coca-Cola
+Zeste de citron
+
+# Cocktail #1451
+Rhum léger
+Brandy
+Triple sec
+Jus de citron
+
+# Cocktail #1452
+Amaretto
+Jus de citron vert
+Eau pétillante
+
+# Cocktail #1453
+Vodka
+Amaretto
+
+# Cocktail #1454
+Jack Daniels
+Midori melon liqueur
+Sour mix
+
+# Cocktail #1455
+Kahlua
+Crème de whisky
+Amaretto
+Rhum ambré 151 Proof
+Crème
+
+# Cocktail #1456
+Tequila
+Jus de citron vert
+Agave syrup
+
+# Cocktail #1457
+Tea
+Rye whiskey
+Vin rouge
+Rhum
+Brandy
+Benedictine
+Jus d'orange
+Grenadine
+
+# Cocktail #1458
+Brandy
+Rhum léger
+Triple sec
+Jus de citron vert
+Sucre
+Blanc d'oeuf
+Menthe
+
+# Cocktail #1459
+Gin
+Eau pétillante
+Sucre
+Menthe
+Orange
+Cerise
+
+# Cocktail #1460
+Amaretto
+White Creme de Menthe
+
+# Cocktail #1461
+Gin
+Triple Sec
+Jus de citron
+
+# Cocktail #1462
+Café
+Aquavit
+Sucre
+
+# Cocktail #1463
+Creme de Cacao
+Amaretto
+Triple sec
+Vodka
+Coca-Cola
+Sweet and sour
+Bitters
+Citron
+
+# Cocktail #1464
+Amaretto
+Jägermeister
+Kahlua
+Milk
+Vanilla ice-cream
+
+# Cocktail #1465
+Vodka
+Kahlua
+Sugar syrup
+
+# Cocktail #1466
+Vodka
+Chambord raspberry liqueur
+Peachtree schnapps
+Jus de cranberry
+
+# Cocktail #1467
+Vodka
+Creme de Cassis
+Sugar Syrup
+Jus de citron
+
+# Cocktail #1468
+Dry Vermouth
+Gin
+Maraschino liqueur
+Anis
+Orange bitters
+Cerise
+
+# Cocktail #1469
+Galliano
+Triple Sec
+Jus d'orange
+Crème
+
+# Cocktail #1470
+Gin
+Dry Vermouth
+Eau pétillante
+Zeste de citron
+
+# Cocktail #1471
+Lager
+Cider
+Blackcurrant cordial
+
+# Cocktail #1472
+Gin
+Jus de citron
+Sugar syrup
+Creme de Mure
+
+# Cocktail #1473
+Gin
+Dry Vermouth
+Triple sec
+Orange bitters
+Cerise
+
+# Cocktail #1474
+Southern Comfort
+Triple sec
+Citron vert
+Citron vert
+
+# Cocktail #1475
+Amaretto
+Sour mix
+
+# Cocktail #1476
+Lemonade
+Vodka
+Rhum
+Ginger ale
+Fruit punch
+Jus d'orange
+Glaçons
+
+# Cocktail #1477
+Sucre
+Eau
+Food coloring
+Food coloring
+Food coloring
+Glycerine
+
+# Cocktail #1478
+Vodka
+Peach schnapps
+Jus de cranberry
+Jus de pamplemousse
+
+# Cocktail #1479
+Gin
+Vermouth
+
+# Cocktail #1480
+Vanilla Ice-Cream
+Butterscotch schnapps
+Milk
+
+# Cocktail #1481
+Amaretto
+Rhum
+Kool-Aid
+
+# Cocktail #1482
+Kahlua
+Bailey's irish cream
+
+# Cocktail #1483
+Gin
+Triple sec
+Blue Curacao
+Bitters
+Maraschino cherry
+Zeste de citron
+
+# Cocktail #1484
+Gin
+Eau pétillante
+Sucre
+Menthe
+Eau pétillante
+
+# Cocktail #1485
+Rhum léger
+Citron vert
+Coca-Cola
+
+# Cocktail #1486
+Sucre
+Citron vert
+Cachaca
+
+# Cocktail #1487
+Vodka
+Amaretto
+
+# Cocktail #1488
+Kahlua
+Sambuca
+Blue Curacao
+Bailey's irish cream
+
+# Cocktail #1489
+Vin rouge
+Sucre
+Eau
+Jus de citron
+Bourbon
+Zeste de citron
+
+# Cocktail #1490
+Vin rouge
+Sucre
+Eau
+
+# Cocktail #1491
+Vodka
+Dry Vermouth
+Olive
+
+# Cocktail #1492
+Absolut Kurant
+Midori melon liqueur
+Jus de cranberry
+Sprite
+
+# Cocktail #1493
+Gin
+Grenadine
+Crème épaisse
+Milk
+Blanc d'oeuf
+
+# Cocktail #1494
+Kahlua
+Galliano
+Eau pétillante
+
+# Cocktail #1495
+Vodka
+Schweppes Russchian
+
+# Cocktail #1496
+Vodka
+Jus de citron vert
+Eau pétillante
+
+# Cocktail #1497
+Gin
+Jus de citron
+maraschino liqueur
+
+# Cocktail #1498
+Sweet Vermouth
+Gin
+
+# Cocktail #1499
+Amaretto
+Rhum
+Kool-Aid
+
+# Cocktail #1500
+Amaretto
+Creme de Cacao
+Crème légère
+Noix de muscade
+
+# Cocktail #1501
+Rhum
+Vodka
+Tequila
+Triple sec
+Jus de citron vert
+
+# Cocktail #1502
+Vodka
+Coffee liqueur
+Crème légère
+
+# Cocktail #1503
+Amaretto
+Citron vert
+
+# Cocktail #1504
+Sucre
+Eau
+Grain alcohol
+Peppermint extract
+Food coloring
+
+# Cocktail #1505
+Tequila
+Triple sec
+Jus de citron
+
+# Cocktail #1506
+Gin
+Grenadine
+Crème épaisse
+Milk
+Blanc d'oeuf
+
+# Cocktail #1507
+Rhum léger
+Jus de citron vert
+Menthe
+Sucre
+
+# Cocktail #1508
+Lager
+Tequila
+
+# Cocktail #1509
+Gin
+Grand Marnier
+
+# Cocktail #1510
+Brandy
+Gin
+Sweet Vermouth
+Eau pétillante
+Zeste de citron
+
+# Cocktail #1511
+Rhum
+Soda citron-citron vert
+Citron
+
+# Cocktail #1512
+Brandy
+Oeuf
+Sucre
+Crème légère
+Noix de muscade
+
+# Cocktail #1513
+Brandy
+Rhum léger
+Triple sec
+Jus de citron vert
+
+# Cocktail #1514
+Rhum léger
+Brandy
+Citron
+Sucre en poudre
+Blanc d'oeuf
+Citron
+Cerise
+
+# Cocktail #1515
+Blended whiskey
+Citron
+Sucre
+Rhum ambré 151 Proof
+
+# Cocktail #1516
+Gin
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #1517
+Gin
+Sweet Vermouth
+Brandy
+
+# Cocktail #1518
+Gin
+Jus de citron
+Sucre
+Glaçons
+
+# Cocktail #1519
+Scotch
+Sweet Vermouth
+Dry Vermouth
+Eau pétillante
+Zeste de citron
+
+# Cocktail #1520
+Rhum léger
+Ananas
+Jus de citron vert
+Sucre
+Gin
+Bitters
+Zeste de citron
+
+# Cocktail #1521
+Rhum brun
+Orgeat syrup
+Jus d'orange
+Jus d'ananas
+
+# Cocktail #1522
+Bailey's irish cream
+Grand Marnier
+Kahlua
+
+# Cocktail #1523
+Vodka
+Raspberry Liqueur
+Jus d'ananas
+
+# Cocktail #1524
+Jägermeister
+Sambuca
+Vodka
+
+# Cocktail #1525
+Dry Vermouth
+Gin
+Kummel
+
+# Cocktail #1526
+Gin
+Jus de citron
+Maraschino liqueur
+Orange bitters
+Jaune d'oeuf
+
+# Cocktail #1527
+Tequila
+Jus de citron
+Grenadine
+Blanc d'oeuf
+
+# Cocktail #1528
+Gin
+Crème légère
+Sucre en poudre
+Oeuf
+Noix de muscade
+
+# Cocktail #1529
+Vodka
+Dry Vermouth
+Olive Brine
+Citron
+Olive
+
+# Cocktail #1530
+Sucre
+Eau pétillante
+Maraschino cherry
+Orange
+
+# Cocktail #1531
+Vodka
+Southern Comfort
+Passion fruit syrup
+Sweet and sour
+Eau pétillante
+
+# Cocktail #1532
+Rhum brun
+Kahlua
+Blanc d'oeuf
+
+# Cocktail #1533
+Jus de pomme
+Rhum Malibu
+Cannelle
+
+# Cocktail #1534
+Gin
+Creme de Cacao
+Crème légère
+
+# Cocktail #1535
+Rhum
+Soda citron-citron vert
+Citron
+
+# Cocktail #1536
+Gin
+Tonic water
+
+# Cocktail #1537
+Sucre
+Eau
+Grain alcohol
+Peppermint extract
+Food coloring
+
+# Cocktail #1538
+Irish whiskey
+Peach brandy
+Jus d'orange
+Sweet and sour
+
+# Cocktail #1539
+Brandy
+Anisette
+
+# Cocktail #1540
+Amaretto
+Creme de Cacao
+Crème légère
+
+# Cocktail #1541
+Blue Curacao
+Blueberry schnapps
+Vodka
+Sour mix
+7-Up
+
+# Cocktail #1542
+Vodka
+Jus de citron vert
+Eau pétillante
+
+# Cocktail #1543
+Galliano
+Absolut Citron
+Citron
+Sucre
+Rhum ambré 151 Proof
+
+# Cocktail #1544
+Rhum léger
+Citron vert
+Coca-Cola
+Glaçons
+
+# Cocktail #1545
+Vodka
+Ouzo
+
+# Cocktail #1546
+Jus de citron vert
+Gin
+Aperol
+
+# Cocktail #1547
+Rhum ambré 151 Proof
+Kool-Aid
+
+# Cocktail #1548
+Gin
+Rhum léger
+Tequila
+Triple sec
+Vodka
+Crème légère
+
+# Cocktail #1549
+Tequila
+Triple sec
+Vodka
+Coca-Cola
+Sweet and sour
+Bitters
+Citron
+
+# Cocktail #1550
+Gin
+Brandy
+Sweet Vermouth
+Eau pétillante
+Zeste de citron
+
+# Cocktail #1551
+Gin
+Grenadine
+Crème épaisse
+Milk
+Blanc d'oeuf
+
+# Cocktail #1552
+Rhum léger
+Citron vert
+Sucre
+Rhum blanc
+Glaçons
+
+# Cocktail #1553
+Tequila
+Jus de citron vert
+Agave syrup
+
+# Cocktail #1554
+Rhum
+Café
+Eau
+Whipped cream
+
+# Cocktail #1555
+Gin
+Sweet Vermouth
+Brandy
+
+# Cocktail #1556
+Rhum léger
+Rhum Añejo
+Jus d'orange
+Jus de citron
+
+# Cocktail #1557
+Rhum Malibu
+Peach schnapps
+Blue Curacao
+Sweet and sour
+
+# Cocktail #1558
+Vodka
+Kahlua
+Coca-Cola
+Guinness stout
+
+# Cocktail #1559
+Vodka
+Lemonade
+Eau
+Vodka
+
+# Cocktail #1560
+Gin
+Triple sec
+Blue Curacao
+Bitters
+Maraschino cherry
+Zeste de citron
+
+# Cocktail #1561
+Gin
+Ginger ale
+Citron vert
+Glaçons
+
+# Cocktail #1562
+Galliano
+Absolut Citron
+Citron
+Sucre
+Rhum ambré 151 Proof
+
+# Cocktail #1563
+Rhum
+Vodka
+Tequila
+Gin
+Triple sec
+Jus d'ananas
+
+# Cocktail #1564
+Baileys irish cream
+Chambord raspberry liqueur
+Sugar syrup
+Sucre
+
+# Cocktail #1565
+Bourbon
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #1566
+Dry Vermouth
+Gin
+Apricot brandy
+Jus de citron
+Grenadine
+
+# Cocktail #1567
+Vodka
+Tonic water
+
+# Cocktail #1568
+Scotch
+Brandy
+Curacao
+Orange
+Menthe
+
+# Cocktail #1569
+Brandy
+Amaretto
+
+# Cocktail #1570
+Gin
+Brandy
+Sweet Vermouth
+Eau pétillante
+Zeste de citron
+
+# Cocktail #1571
+Bière
+Amaretto
+Jus d'orange
+Grenadine
+
+# Cocktail #1572
+Vodka
+Grape soda
+Jus d'orange
+Glaçons
+
+# Cocktail #1573
+Gin
+Orange bitters
+Orange
+Cerise
+
+# Cocktail #1574
+Corona
+Bacardi Limon
+
+# Cocktail #1575
+Vodka
+Kahlua
+Bailey's irish cream
+Frangelico
+Café
+Crème
+
+# Cocktail #1576
+Absolut Vodka
+Gin
+Tonic water
+Citron vert
+
+# Cocktail #1577
+Rhum léger
+Triple sec
+Jus de citron vert
+
+# Cocktail #1578
+Vodka
+Amaretto
+
+# Cocktail #1579
+Tequila
+Citron
+Sucre en poudre
+Eau pétillante
+
+# Cocktail #1580
+Amaretto
+White Creme de Menthe
+
+# Cocktail #1581
+Vodka
+Midori melon liqueur
+Sweet and sour
+
+# Cocktail #1582
+Rhum brun
+Peach nectar
+Jus d'orange
+
+# Cocktail #1583
+Gin
+Rhum léger
+Tequila
+Triple sec
+Vodka
+Crème légère
+
+# Cocktail #1584
+Rhum
+Vodka
+Tequila
+Gin
+Triple sec
+Jus de citron
+
+# Cocktail #1585
+Vodka
+Creme de Banane
+Jus d'orange
+
+# Cocktail #1586
+Vodka
+Gin
+Blue Curacao
+Sour mix
+Soda citron-citron vert
+
+# Cocktail #1587
+Vodka
+Bailey's irish cream
+Kahlua
+Sambuca
+Grand Marnier
+
+# Cocktail #1588
+Gin
+Vodka
+Grenadine
+Jus d'orange
+Sour mix
+
+# Cocktail #1589
+Gin
+Jus de citron
+Maraschino liqueur
+Orange bitters
+
+# Cocktail #1590
+Apricot brandy
+Apple brandy
+Gin
+
+# Cocktail #1591
+Brandy
+Gin
+Sweet Vermouth
+Brandy
+
+# Cocktail #1592
+Gin
+Sweet Vermouth
+Eau pétillante
+
+# Cocktail #1593
+Gin
+Citron
+Sucre en poudre
+Blanc d'oeuf
+Eau pétillante
+
+# Cocktail #1594
+Bourbon
+Benedictine
+Zeste de citron
+
+# Cocktail #1595
+Tequila
+Jus de tomate
+Jus de citron
+Tabasco sauce
+Sel de celeri
+Citron
+
+# Cocktail #1596
+Kahlua
+Bailey's irish cream
+Frangelico
+Café
+Crème
+
+# Cocktail #1597
+Champagne
+Green Creme de Menthe
+
+# Cocktail #1598
+Brandy
+Anisette
+
+# Cocktail #1599
+Strawberry schnapps
+Rhum léger
+Jus de citron vert
+Sucre en poudre
+Strawberries
+
+# Cocktail #1600
+Vodka
+Amaretto
+
+# Cocktail #1601
+Kahlua
+Vodka
+Chocolate ice-cream
+
+# Cocktail #1602
+Gin
+Creme de Cacao
+
+# Cocktail #1603
+Midori melon liqueur
+Zima
+
+# Cocktail #1604
+Gin
+Grand Marnier
+Jus de citron
+Eau pétillante
+
+# Cocktail #1605
+Tequila
+Triple sec
+Jus de citron
+
+# Cocktail #1606
+Gin
+Citron
+Sucre en poudre
+Eau pétillante
+
+# Cocktail #1607
+Vodka
+Kahlua
+Bailey's irish cream
+Goldschlager
+Crème épaisse
+Café
+
+# Cocktail #1608
+Vodka
+Sucre
+
+# Cocktail #1609
+Gin
+Grand Marnier
+Jus de citron
+Grenadine
+
+# Cocktail #1610
+Amaretto
+Creme de Cacao
+Crème légère
+Noix de muscade
+
+# Cocktail #1611
+Rhum léger
+Brandy
+Citron
+Raspberry syrup
+
+# Cocktail #1612
+Blended whiskey
+Citron
+Sucre en poudre
+Eau pétillante
+
+# Cocktail #1613
+Rhum
+Dry Vermouth
+Cognac
+Gin
+Fresh Lime Juice
+Sugar Syrup
+Eau
+
+# Cocktail #1614
+Gin
+Grenadine
+Citron
+
+# Cocktail #1615
+Apricot brandy
+Champagne
+Vodka
+7-Up
+Jus d'orange
+
+# Cocktail #1616
+Café
+Peach schnapps
+
+# Cocktail #1617
+Rhum léger
+Triple sec
+Banana
+Jus de citron vert
+Sucre
+Cerise
+Glaçons
+
+# Cocktail #1618
+Blackberry brandy
+Anis
+
+# Cocktail #1619
+Bourbon
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #1620
+Cranberry vodka
+Apfelkorn
+Schweppes Russchian
+Jus de pomme
+Glaçons
+
+# Cocktail #1621
+Vodka
+Southern Comfort
+Passion fruit syrup
+Sweet and sour
+Eau pétillante
+Cerise
+
+# Cocktail #1622
+Bitters
+Eau
+Lime peel
+
+# Cocktail #1623
+Vodka
+Peach schnapps
+Jus de cranberry
+Jus de pamplemousse
+
+# Cocktail #1624
+Gin
+Dry Vermouth
+Sucre en poudre
+Orange spiral
+Zeste de citron
+
+# Cocktail #1625
+Brandy
+Oeuf
+Sucre
+Crème légère
+Noix de muscade
+
+# Cocktail #1626
+Gin
+Orange bitters
+Orange
+Cerise
+
+# Cocktail #1627
+Gin
+Triple sec
+Chambord raspberry liqueur
+Midori melon liqueur
+Rhum Malibu
+Amaretto
+Jus de cranberry
+
+# Cocktail #1628
+Creme de Cassis
+Champagne
+
+# Cocktail #1629
+Gin
+Triple sec
+Jus d'ananas
+
+# Cocktail #1630
+Gin
+Jus de citron
+Maraschino liqueur
+Orange bitters
+Jaune d'oeuf
+
+# Cocktail #1631
+Amaretto
+Grand Marnier
+Southern Comfort
+
+# Cocktail #1632
+Rhum léger
+Orgeat syrup
+Triple sec
+Sweet and sour
+Cerise
+
+# Cocktail #1633
+Kahlua
+Crème de whisky
+Amaretto
+Rhum ambré 151 Proof
+Crème
+
+# Cocktail #1634
+Rhum léger
+Blended whiskey
+Citron
+Sucre en poudre
+Citron
+Cerise
+
+# Cocktail #1635
+Amaretto
+Citron
+Glaçons
+Maraschino cherry
+
+# Cocktail #1636
+Gin
+Orange bitters
+Orange
+Cerise
+
+# Cocktail #1637
+Sweet Vermouth
+Gin
+
+# Cocktail #1638
+Vodka
+Kahlua
+Bailey's irish cream
+Vanilla ice-cream
+Crème
+
+# Cocktail #1639
+Gin
+Jus de citron
+Sucre
+Grenadine
+Maraschino cherry
+Orange
+
+# Cocktail #1640
+Scotch
+Sweet Vermouth
+Dry Vermouth
+Eau pétillante
+Zeste de citron
+
+# Cocktail #1641
+Crown Royal
+Amaretto
+Jus de cranberry
+Jus d'ananas
+
+# Cocktail #1642
+Vodka
+Schweppes Russchian
+
+# Cocktail #1643
+Vodka
+Lemonade
+Eau
+Vodka
+
+# Cocktail #1644
+Rhum brun
+Kahlua
+Blanc d'oeuf
+
+# Cocktail #1645
+Vodka
+Creme de Banane
+Grenadine
+Jus d'orange
+Sour mix
+
+# Cocktail #1646
+Gin
+Triple sec
+Jus de citron
+Grenadine
+Blanc d'oeuf
+
+# Cocktail #1647
+Bailey's irish cream
+Godiva liqueur
+Kahlua
+Butterscotch schnapps
+Milk
+
+# Cocktail #1648
+Sambuca
+Bailey's irish cream
+
+# Cocktail #1649
+Kahlua
+Sambuca
+Blue Curacao
+Bailey's irish cream
+
+# Cocktail #1650
+Gin
+Grenadine
+Citron
+Eau pétillante
+Citron vert
+
+# Cocktail #1651
+Rhum léger
+Citron vert
+Coca-Cola
+
+# Cocktail #1652
+Rhum brun
+Kahlua
+Blanc d'oeuf
+
+# Cocktail #1653
+Vodka
+Kahlua
+Coca-Cola
+Guinness stout
+
+# Cocktail #1654
+Gin
+Grenadine
+Citron
+
+# Cocktail #1655
+Vodka
+Dry Vermouth
+Olive Brine
+Citron
+Olive
+
+# Cocktail #1656
+Kahlua
+Sambuca
+
+# Cocktail #1657
+Vodka
+Gin
+Blue Curacao
+Sour mix
+Soda citron-citron vert
+
+# Cocktail #1658
+Gin
+Grenadine
+Citron
+Blanc d'oeuf
+Eau pétillante
+
+# Cocktail #1659
+Rhum léger
+Anisette
+Grenadine
+Citron
+Blanc d'oeuf
+Eau pétillante
+
+# Cocktail #1660
+Amaretto
+Grand Marnier
+Southern Comfort
+
+# Cocktail #1661
+Amaretto
+Grand Marnier
+Southern Comfort
+
+# Cocktail #1662
+Gin
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #1663
+Café
+Grain alcohol
+
+# Cocktail #1664
+Rhum léger
+Maple syrup
+Jus de citron
+
+# Cocktail #1665
+Brandy
+Gin
+Dry Vermouth
+Triple sec
+Orange bitters
+Cerise
+
+# Cocktail #1666
+Amaretto
+Sour mix
+Jus d'orange
+
+# Cocktail #1667
+Champagne
+Green Creme de Menthe
+
+# Cocktail #1668
+Gin
+Grenadine
+Sucre en poudre
+Ananas
+Strawberries
+Eau pétillante
+
+# Cocktail #1669
+Vodka
+Tonic water
+
+# Cocktail #1670
+Gin
+Creme de Cacao
+Crème légère
+Noix de muscade
+
+# Cocktail #1671
+Gin
+Triple sec
+Jus d'ananas
+Grenadine
+Ananas
+
+# Cocktail #1672
+Vodka
+Peach schnapps
+Jus d'orange
+Jus de cranberry
+Eau pétillante
+Midori melon liqueur
+Creme de Banane
+
+# Cocktail #1673
+Cognac
+Amaretto
+
+# Cocktail #1674
+Amaretto
+Grand Marnier
+Southern Comfort
+
+# Cocktail #1675
+Vodka
+Citron vert
+Angostura bitters
+Tonic water
+Glaçons
+
+# Cocktail #1676
+Gin
+Triple sec
+Jus de citron
+
+# Cocktail #1677
+Vodka
+Grenadine
+Jus de citron vert
+Sucre
+Gin
+Bitters
+Zeste de citron
+Cognac
+
+# Cocktail #1678
+Dry Vermouth
+Gin
+Kummel
+
+# Cocktail #1679
+Gin
+Triple sec
+Blue Curacao
+Bitters
+Maraschino cherry
+Zeste de citron
+
+# Cocktail #1680
+Apricot brandy
+Champagne
+Vodka
+7-Up
+Jus d'orange
+
+# Cocktail #1681
+Rhum
+Vodka
+Tequila
+Triple sec
+Vodka
+Coca-Cola
+Sweet and sour
+Bitters
+Citron
+
+# Cocktail #1682
+Rhum léger
+Triple sec
+Jus de citron
+
+# Cocktail #1683
+Vodka
+Coffee liqueur
+Crème légère
+
+# Cocktail #1684
+Amaretto
+White Creme de Menthe
+
+# Cocktail #1685
+Vodka
+Creme de Banane
+Grenadine
+Jus d'orange
+
+# Cocktail #1686
+Bourbon
+Rhum brun
+Crème épaisse
+
+# Cocktail #1687
+Rhum léger
+Brandy
+Triple sec
+Citron
+
+# Cocktail #1688
+Gin
+Sweet Vermouth
+Eau pétillante
+Zeste de citron
+
+# Cocktail #1689
+Absolut Citron
+Jus de citron vert
+Cointreau
+Jus de cranberry
+
+# Cocktail #1690
+Gin
+Tonic water
+Citron vert
+
+# Cocktail #1691
+Gin
+Dry Vermouth
+Sucre en poudre
+Orange spiral
+Zeste de citron
+
+# Cocktail #1692
+Vodka
+Blue Curacao
+Triple sec
+Sucre
+Glaçons
+
+# Cocktail #1693
+Gin
+Triple sec
+Jus de citron
+
+# Cocktail #1694
+Vodka
+Jus de citron vert
+Ginger ale
+
+# Cocktail #1695
+Gin
+Grenadine
+Crème épaisse
+Milk
+Blanc d'oeuf
+
+# Cocktail #1696
+Bourbon
+Jus de citron
+Sucre
+Glaçons
+
+# Cocktail #1697
+Vodka
+Peach schnapps
+Jus de cranberry
+Jus de pamplemousse
+
+# Cocktail #1698
+Corona
+Bacardi Limon
+
+# Cocktail #1699
+Rhum léger
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #1700
+Vodka
+Kahlua
+Bailey's irish cream
+
+# Cocktail #1701
+Rhum brun
+Jus de citron
+Grenadine
+Blanc d'oeuf
+
+# Cocktail #1702
+Gin
+Green Chartreuse
+Yellow Chartreuse
+
+# Cocktail #1703
+Tequila
+Apple cider
+
+# Cocktail #1704
+Vodka
+Grape soda
+Jus d'orange
+Glaçons
+
+# Cocktail #1705
+Bailey's irish cream
+Grand Marnier
+Kahlua
+
+# Cocktail #1706
+Rhum
+Jus de pamplemousse
+Maraschino Liqueur
+Jus de citron vert
+
+# Cocktail #1707
+Kahlua
+Bailey's irish cream
+Frangelico
+
+# Cocktail #1708
+Amaretto
+Rhum
+Kool-Aid
+
+# Cocktail #1709
+Lager
+Tequila
+
+# Cocktail #1710
+Amaretto
+Southern Comfort
+Glaçons
+Sour mix
+
+# Cocktail #1711
+Vodka
+Creme de Banane
+Jus d'orange
+
+# Cocktail #1712
+Fruit punch
+Sprite
+Tequila
+Rhum ambré 151 Proof
+
+# Cocktail #1713
+Blended whiskey
+Dry Vermouth
+Jus d'ananas
+
+# Cocktail #1714
+Glaçons
+Chocolate syrup
+Cherry brandy
+Vodka
+Milk
+
+# Cocktail #1715
+Vodka
+Galliano
+Jus d'orange
+
+# Cocktail #1716
+Amaretto
+Sour mix
+
+# Cocktail #1717
+Gin
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #1718
+Gin
+Jus de citron
+Sucre
+Eau pétillante
+Citron
+Rhum brun
+Maraschino cherry
+Orange
+
+# Cocktail #1719
+Blended whiskey
+Citron
+Sucre en poudre
+Eau pétillante
+
+# Cocktail #1720
+Citron vert
+Sucre
+Rhum blanc
+Glaçons
+
+# Cocktail #1721
+Vodka
+Bailey's irish cream
+Kahlua
+
+# Cocktail #1722
+Rhum brun
+Cherry brandy
+
+# Cocktail #1723
+Rhum ambré 151 Proof
+Wild Turkey
+
+# Cocktail #1724
+Gin
+Jus de citron
+maraschino liqueur
+
+# Cocktail #1725
+Blended whiskey
+Citron
+Sucre en poudre
+Blanc d'oeuf
+Eau pétillante
+
+# Cocktail #1726
+Rhum brun
+Tia maria
+
+# Cocktail #1727
+Amaretto
+Vodka
+Rhum ambré 151 Proof
+Dr. Pepper
+Bière
+
+# Cocktail #1728
+Vodka
+Blue Curacao
+Lemonade
+Cerise
+
+# Cocktail #1729
+Gin
+Creme de Cacao
+
+# Cocktail #1730
+Dry Vermouth
+Gin
+Benedictine
+
+# Cocktail #1731
+Rhum léger
+Jus de pamplemousse
+Bitters
+
+# Cocktail #1732
+Vodka
+Triple sec
+Jus de citron vert
+Sucre
+
+# Cocktail #1733
+Amaretto
+Citron vert
+
+# Cocktail #1734
+Vodka
+Jus de cranberry
+Champagne
+
+# Cocktail #1735
+Bailey's irish cream
+Kahlua
+Sambuca
+Grand Marnier
+
+# Cocktail #1736
+Rhum ambré 151 Proof
+Wild Turkey
+
+# Cocktail #1737
+Rhum léger
+Citron vert
+Coca-Cola
+
+# Cocktail #1738
+Rhum léger
+Citron vert
+Coca-Cola
+Glaçons
+
+# Cocktail #1739
+Vodka
+Kahlua
+Sugar syrup
+
+# Cocktail #1740
+Gin
+Crème légère
+Sucre en poudre
+Oeuf
+Noix de muscade
+
+# Cocktail #1741
+Amaretto
+Sour mix
+Jus d'orange
+
+# Cocktail #1742
+Scotch
+Drambuie
+Dry Vermouth
+Zeste de citron
+
+# Cocktail #1743
+Vodka
+Gin
+Jus de citron+citron vert+sucre
+Glaçons
+
+# Cocktail #1744
+Gin
+Triple sec
+Jus d'ananas
+
+# Cocktail #1745
+Brandy
+Rhum léger
+Bourbon
+Citron
+Sucre en poudre
+Blanc d'oeuf
+Citron
+Cerise
+
+# Cocktail #1746
+Absolut Vodka
+Jus de cranberry
+Ginger ale
+Glaçons
+
+# Cocktail #1747
+Vodka
+Kirschwasser
+Strawberry liqueur
+Strawberries
+Schweppes Russchian
+
+# Cocktail #1748
+Vodka
+Tonic water
+
+# Cocktail #1749
+Vodka
+Kahlua
+Sugar syrup
+
+# Cocktail #1750
+Rhum brun
+Rhum léger
+Vodka
+Jus d'orange
+
+# Cocktail #1751
+Rhum léger
+Jus de citron vert
+Menthe
+Sucre
+
+# Cocktail #1752
+Scotch
+Sweet Vermouth
+Bitters
+Sugar syrup
+
+# Cocktail #1753
+Triple sec
+Amaretto
+Cider
+Glaçons
+
+# Cocktail #1754
+Rhum léger
+Citron vert
+Sucre en poudre
+Grenadine
+Eau pétillante
+
+# Cocktail #1755
+Café
+Milk
+Triple sec
+Brandy
+
+# Cocktail #1756
+Rhum brun
+Vodka
+Triple sec
+Jus de citron vert
+Sucre
+Cerise
+
+# Cocktail #1757
+Rhum léger
+Jus d'ananas
+Jus de citron
+
+# Cocktail #1758
+Absolut Citron
+Grand Marnier
+Jus de citron
+Grenadine
+Blanc d'oeuf
+
+# Cocktail #1759
+Goldschlager
+Jägermeister
+Rumple Minze
+Rhum ambré 151 Proof
+
+# Cocktail #1760
+Rhum léger
+Brandy
+Citron
+Raspberry syrup
+
+# Cocktail #1761
+Rhum brun
+Cherry brandy
+
+# Cocktail #1762
+Gin
+Tonic water
+
+# Cocktail #1763
+Amaretto
+Dark Creme de Cacao
+Café
+
+# Cocktail #1764
+Rhum léger
+Maple syrup
+Jus de citron
+
+# Cocktail #1765
+Vodka
+Amaretto
+
+# Cocktail #1766
+Gin
+Jus de citron
+Sucre
+Eau pétillante
+Maraschino cherry
+Orange
+
+# Cocktail #1767
+Vodka
+Peach schnapps
+Jus de cranberry
+Jus de pamplemousse
+
+# Cocktail #1768
+Gin
+Grenadine
+Citron
+
+# Cocktail #1769
+Gin
+Dry Vermouth
+Grenadine
+Jus de citron
+Cerise
+
+# Cocktail #1770
+Gin
+Citron
+Sucre en poudre
+Citron
+Cerise
+
+# Cocktail #1771
+Café
+Aquavit
+Sucre
+
+# Cocktail #1772
+Rhum léger
+Milk
+Sucre en poudre
+Noix de muscade
+
+# Cocktail #1773
+Rhum léger
+Triple sec
+Banana
+Jus de citron vert
+Sucre
+Gin
+Bitters
+Zeste de citron
+Cognac
+
+# Cocktail #1774
+Gin
+Grenadine
+Citron
+
+# Cocktail #1775
+Gin
+Jus de citron
+Sucre
+Eau pétillante
+Maraschino cherry
+Orange
+
+# Cocktail #1776
+Irish whiskey
+Bailey's irish cream
+Café
+
+# Cocktail #1777
+Vodka
+Rhum Malibu
+Gold tequila
+Jus d'orange
+Jus d'ananas
+Cream of coconut
+Grenadine
+Glaçons
+Ananas
+
+# Cocktail #1778
+Vodka
+Tonic water
+
+# Cocktail #1779
+Vodka
+Jus de tomate
+Jus de citron
+Tabasco sauce
+Sel de celeri
+Citron
+
+# Cocktail #1780
+Glaçons
+Tequila
+Cream of coconut
+Jus de citron vert
+
+# Cocktail #1781
+Vin rouge
+Sucre
+Jus d'orange
+Jus de citron
+
+# Cocktail #1782
+Rhum ambré 151 Proof
+Wild Turkey
+
+# Cocktail #1783
+Vodka
+Jus de cranberry
+Champagne
+
+# Cocktail #1784
+Rhum léger
+Jus de pamplemousse
+Bitters
+
+# Cocktail #1785
+Rhum léger
+Cherry brandy
+Crème légère
+
+# Cocktail #1786
+Rhum léger
+Brandy
+Citron
+Raspberry syrup
+
+# Cocktail #1787
+Rhum léger
+Rhum Añejo
+Jus d'orange
+Jus de citron
+
+# Cocktail #1788
+Vodka
+Blue Curacao
+Triple sec
+Sucre
+Glaçons
+
+# Cocktail #1789
+Vodka
+Citron vert
+Jus de cranberry
+
+# Cocktail #1790
+Apricot brandy
+Gin
+Dry Vermouth
+Olive
+
+# Cocktail #1791
+Bière
+7-Up
+
+# Cocktail #1792
+Café
+Everclear
+
+# Cocktail #1793
+Amaretto
+Citron vert
+
+# Cocktail #1794
+Café
+Aquavit
+Sucre
+
+# Cocktail #1795
+Gin
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #1796
+Gin
+Creme de Cacao
+
+# Cocktail #1797
+Gin
+Tonic water
+
+# Cocktail #1798
+Jus de pamplemousse
+Gin
+Sel
+
+# Cocktail #1799
+Vodka
+Banana liqueur
+Jus d'orange
+Peach schnapps
+
+# Cocktail #1800
+Scotch
+Vin
+Jus d'orange
+
+# Cocktail #1801
+Bailey's irish cream
+Bourbon
+Vodka
+Jus d'orange
+
+# Cocktail #1802
+Rhum léger
+Jus de citron vert
+Sucre en poudre
+Strawberries
+
+# Cocktail #1803
+Rhum léger
+Jus d'orange
+
+# Cocktail #1804
+Amaretto
+Bailey's irish cream
+Cognac
+
+# Cocktail #1805
+Brandy
+Amaretto
+
+# Cocktail #1806
+Scotch
+Sweet Vermouth
+Dry Vermouth
+Bitters
+Maraschino liqueur
+Maraschino cherry
+
+# Cocktail #1807
+Gin
+Dry Vermouth
+Triple sec
+Orange bitters
+Cerise
+
+# Cocktail #1808
+Corona
+Bacardi Limon
+
+# Cocktail #1809
+Gin
+Grenadine
+Sucre en poudre
+
+# Cocktail #1810
+Kahlua
+Bailey's irish cream
+Frangelico
+Café
+Crème
+
+# Cocktail #1811
+Gin
+Vin
+Benedictine
+Citron vert
+
+# Cocktail #1812
+Rhum léger
+Ginger beer
+Zeste de citron
+
+# Cocktail #1813
+Amaretto
+Sour mix
+
+# Cocktail #1814
+Vodka
+Southern Comfort
+Passion fruit syrup
+Sweet and sour
+Eau pétillante
+Cerise
+
+# Cocktail #1815
+Rhum
+Vodka
+Tequila
+Gin
+Triple sec
+Blue Curacao
+Bitters
+Maraschino cherry
+Zeste de citron
+
+# Cocktail #1816
+Apricot brandy
+Gin
+Dry Vermouth
+Eau pétillante
+Zeste de citron
+
+# Cocktail #1817
+Gin
+Triple sec
+Jus d'ananas
+
+# Cocktail #1818
+Brandy
+Oeuf
+Sucre
+Crème légère
+Noix de muscade
+
+# Cocktail #1819
+Brandy
+Gin
+Dry Vermouth
+Bitters
+Maraschino liqueur
+Maraschino cherry
+
+# Cocktail #1820
+Rhum léger
+Anisette
+Grenadine
+Citron
+Blanc d'oeuf
+Eau pétillante
+
+# Cocktail #1821
+Bière
+7-Up
+
+# Cocktail #1822
+Vodka
+Dry Vermouth
+Olive Brine
+Citron
+Olive
+
+# Cocktail #1823
+Gin
+Sweet and sour
+Oeuf
+Coca-Cola
+
+# Cocktail #1824
+Gin
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #1825
+Gin
+Jus de citron
+Sucre
+Glaçons
+
+# Cocktail #1826
+Vodka
+Amaretto
+Crème épaisse
+
+# Cocktail #1827
+Amaretto
+Jus de citron vert
+Eau pétillante
+
+# Cocktail #1828
+Creme de Cassis
+Champagne
+
+# Cocktail #1829
+Bourbon
+Jus de citron
+Sucre
+Glaçons
+
+# Cocktail #1830
+Vodka
+Raspberry Liqueur
+Jus d'ananas
+
+# Cocktail #1831
+Scotch
+Citron vert
+Sucre en poudre
+Grenadine
+Eau pétillante
+
+# Cocktail #1832
+Rhum léger
+Maple syrup
+Jus de citron
+
+# Cocktail #1833
+Scotch
+Brandy
+Curacao
+Orange
+Menthe
+
+# Cocktail #1834
+Dry Vermouth
+Gin
+Kummel
+
+# Cocktail #1835
+Vodka
+Banana liqueur
+Jus d'orange
+Peach schnapps
+
+# Cocktail #1836
+Gin
+Grenadine
+Sucre en poudre
+
+# Cocktail #1837
+Vodka
+Jus de citron vert
+Ginger ale
+
+# Cocktail #1838
+Rhum léger
+Triple sec
+Banana
+Jus de citron vert
+Sucre
+Sugar syrup
+Eau pétillante
+
+# Cocktail #1839
+Gin
+Jus de citron
+Sucre
+Eau pétillante
+Maraschino cherry
+Orange
+
+# Cocktail #1840
+Vodka
+Kahlua
+Bailey's irish cream
+Frangelico
+Café
+Crème
+
+# Cocktail #1841
+Vodka
+Gin
+Jus de citron+citron vert+sucre
+Glaçons
+
+# Cocktail #1842
+Rhum léger
+Citron vert
+Sucre
+Rhum blanc
+Glaçons
+
+# Cocktail #1843
+Vodka
+Jus de citron
+Grape juice
+Sucre en poudre
+Orange
+
+# Cocktail #1844
+Vodka
+Dry Vermouth
+Olive Brine
+Citron
+Olive
+
+# Cocktail #1845
+Gin
+Sweet Vermouth
+Eau pétillante
+Zeste de citron
+
+# Cocktail #1846
+Gin
+Vodka
+Lillet Blanc
+
+# Cocktail #1847
+Gin
+Citron
+Sucre en poudre
+Eau pétillante
+
+# Cocktail #1848
+Vodka
+Amaretto
+Sloe gin
+Triple sec
+Jus de cranberry
+
+# Cocktail #1849
+Gin
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #1850
+Sweet Vermouth
+Sloe gin
+Vin
+
+# Cocktail #1851
+Vodka
+Pisang Ambon
+Jus de pomme
+Jus de citron
+Lemonade
+
+# Cocktail #1852
+Gin
+Grenadine
+Citron
+Blanc d'oeuf
+Eau pétillante
+
+# Cocktail #1853
+Amaretto
+Sour mix
+
+# Cocktail #1854
+Vin rouge
+Sucre
+Citron
+Orange
+Apple
+Brandy
+Eau pétillante
+
+# Cocktail #1855
+Gin
+Triple sec
+Jus d'ananas
+Grenadine
+Ananas
+
+# Cocktail #1856
+Vin rouge
+Citron
+Jus d'orange
+Orange
+Jus d'ananas
+
+# Cocktail #1857
+Tequila
+Blue Curacao
+Jus de citron vert
+Sel
+
+# Cocktail #1858
+Tequila
+Tabasco sauce
+
+# Cocktail #1859
+Gin
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #1860
+Vodka
+Raspberry Liqueur
+Jus d'ananas
+
+# Cocktail #1861
+Vodka
+Coffee liqueur
+Crème légère
+
+# Cocktail #1862
+Vodka
+Jus de citron vert
+Eau pétillante
+
+# Cocktail #1863
+Vodka
+Coffee liqueur
+Crème légère
+
+# Cocktail #1864
+Rhum léger
+Apricot brandy
+Triple sec
+Jus de citron
+Strawberries
+Sel
+
+# Cocktail #1865
+Gin
+Grand Marnier
+Jus de citron
+Zeste de citron
+
+# Cocktail #1866
+Gin
+Grand Marnier
+Jus de citron
+Zeste de citron
+
+# Cocktail #1867
+Rhum
+Sucre en poudre
+Zeste de citron
+Eau
+
+# Cocktail #1868
+Tequila
+Tabasco sauce
+
+# Cocktail #1869
+Vodka
+Amaretto
+
+# Cocktail #1870
+Vodka
+Pisang Ambon
+Jus de pomme
+Jus de citron
+Lemonade
+
+# Cocktail #1871
+Amaretto
+White Creme de Menthe
+
+# Cocktail #1872
+Rhum
+Vodka
+Tequila
+Triple sec
+Fruit
+Glaçons
+Sel
+Jus de fruit
+
+# Cocktail #1873
+Vodka
+Dry Vermouth
+Olive
+
+# Cocktail #1874
+Gin
+Citron
+Sucre en poudre
+Blanc d'oeuf
+Citron
+Cerise
+
+# Cocktail #1875
+Vodka
+Banana liqueur
+Jus d'orange
+Peach schnapps
+
+# Cocktail #1876
+Bitters
+Eau
+Lime peel
+
+# Cocktail #1877
+Gin
+Eau pétillante
+Sucre
+Menthe
+Orange
+Cerise
+
+# Cocktail #1878
+Vin rouge
+Sucre
+Citron
+Orange
+Apple
+Brandy
+Eau pétillante
+
+# Cocktail #1879
+Gin
+Dry Vermouth
+Olive
+
+# Cocktail #1880
+Gin
+Triple sec
+Jus d'ananas
+Grenadine
+Ananas
+
+# Cocktail #1881
+Vodka
+Iced tea
+Jus de citron
+
+# Cocktail #1882
+Rhum
+Sucre en poudre
+Zeste de citron
+
+# Cocktail #1883
+Vodka
+Grenadine
+Jus d'orange
+Sour mix
+
+# Cocktail #1884
+Gin
+Jus de citron
+maraschino liqueur
+
+# Cocktail #1885
+Vodka
+Tequila
+Triple sec
+Jus de citron vert
+Sel
+
+# Cocktail #1886
+Gin
+Eau
+Sucre en poudre
+Zeste de citron
+
+# Cocktail #1887
+Gin
+Citron
+Sucre en poudre
+Blanc d'oeuf
+Eau pétillante
+
+# Cocktail #1888
+Vin rouge
+Sucre
+Eau
+Food coloring
+Food coloring
+Glycerine
+
+# Cocktail #1889
+Scotch
+Sweet Vermouth
+Orange bitters
+Olive
+
+# Cocktail #1890
+Guinness stout
+Root beer
+
+# Cocktail #1891
+Vodka
+Triple sec
+Jus de citron vert
+Sucre
+Cerise
+Glaçons
+
+# Cocktail #1892
+Gin
+Sweet Vermouth
+Jus d'orange
+Angostura Bitters
+
+# Cocktail #1893
+Rhum léger
+Cherry brandy
+Crème légère
+
+# Cocktail #1894
+Sambuca
+Erin Cream
+Advocaat
+
+# Cocktail #1895
+Absolut Vodka
+Cointreau
+Citron
+
+# Cocktail #1896
+Gin
+Triple sec
+Jus de citron
+
+# Cocktail #1897
+Rhum léger
+Brandy
+Citron
+Raspberry syrup
+
+# Cocktail #1898
+Gin
+Grenadine
+Citron
+
+# Cocktail #1899
+Gin
+Jus de citron
+maraschino liqueur
+
+# Cocktail #1900
+Kahlua
+Bailey's irish cream
+Goldschlager
+Crème épaisse
+Café
+
+# Cocktail #1901
+Rhum
+Dry Vermouth
+Cognac
+Gin
+Fresh Lime Juice
+Sugar Syrup
+Eau
+
+# Cocktail #1902
+Blended whiskey
+Citron
+Sucre en poudre
+Citron
+Cerise
+
+# Cocktail #1903
+Vodka
+Peach schnapps
+Jus d'orange
+Jus de cranberry
+
+# Cocktail #1904
+Rhum léger
+Citron vert
+Sucre
+Rhum blanc
+Glaçons
+
+# Cocktail #1905
+Rhum brun
+Kahlua
+Crème légère
+Noix de muscade
+
+# Cocktail #1906
+Vodka
+Gin
+Blue Curacao
+Sour mix
+Soda citron-citron vert
+
+# Cocktail #1907
+Scotch
+Vin
+Jus d'orange
+
+# Cocktail #1908
+Tequila
+Blue Curacao
+Jus de citron vert
+Sel
+
+# Cocktail #1909
+Gin
+Maraschino liqueur
+Jus de citron
+Orange bitters
+Cerise
+
+# Cocktail #1910
+Bitters
+Eau
+Sucre
+Bourbon
+Orange
+Maraschino cherry
+
+# Cocktail #1911
+Rhum léger
+Jus de citron vert
+Sugar syrup
+Grenadine
+
+# Cocktail #1912
+Gin
+Sweet Vermouth
+Brandy
+
+# Cocktail #1913
+Vodka
+Jus de citron vert
+Ginger ale
+
+# Cocktail #1914
+Rhum léger
+Citron vert
+Sucre
+Rhum blanc
+Glaçons
+
+# Cocktail #1915
+Vin rouge
+Sucre
+Jus d'orange
+Jus de citron
+Cloves
+Cannelle
+Zeste de citron
+Vin rouge
+Brandy
+
+# Cocktail #1916
+Rhum léger
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #1917
+Vodka
+Jus de tomate
+Jus de citron
+Tabasco sauce
+Sel de celeri
+Citron
+
+# Cocktail #1918
+Vin rouge
+Citron
+Jus d'orange
+Orange
+Jus d'ananas
+
+# Cocktail #1919
+Sweet Vermouth
+Gin
+Bitters
+Zeste de citron
+
+# Cocktail #1920
+Sucre
+Corn syrup
+Café
+Vanilla extract
+Sucre
+Vodka
+Eau
+
+# Cocktail #1921
+Absolut Kurant
+Midori melon liqueur
+Jus de cranberry
+Sprite
+
+# Cocktail #1922
+Vodka
+Raspberry Liqueur
+Jus d'ananas
+
+# Cocktail #1923
+Peach Vodka
+Jus de citron
+Galliano
+Sirup of roses
+
+# Cocktail #1924
+Gin
+Sucre
+Jus de citron
+Champagne
+Orange
+Maraschino cherry
+
+# Cocktail #1925
+Rhum léger
+Sherry
+Citron vert
+
+# Cocktail #1926
+Rhum Malibu
+Peach schnapps
+Blue Curacao
+Sweet and sour
+
+# Cocktail #1927
+Vodka
+Creme de Banane
+Grenadine
+Jus d'orange
+
+# Cocktail #1928
+Kahlua
+Sambuca
+Blue Curacao
+Bailey's irish cream
+
+# Cocktail #1929
+Kahlua
+Sambuca
+Bailey's irish cream
+
+# Cocktail #1930
+Gin
+Citron
+Sucre en poudre
+Eau pétillante
+
+# Cocktail #1931
+Gin
+Grenadine
+Citron
+Eau pétillante
+Citron vert
+
+# Cocktail #1932
+Vodka
+Ouzo
+
+# Cocktail #1933
+Lager
+Cider
+
+# Cocktail #1934
+Rhum léger
+Sherry
+Citron vert
+
+# Cocktail #1935
+Vodka
+Amaretto
+Sloe gin
+Triple sec
+Jus de cranberry
+
+# Cocktail #1936
+Vodka
+Jus de cranberry
+Jus de pamplemousse
+
+# Cocktail #1937
+Scotch
+Sweet Vermouth
+Orange bitters
+Olive
+
+# Cocktail #1938
+Brandy
+Triple sec
+Jus de citron
+Strawberries
+Sel
+
+# Cocktail #1939
+Sweet Vermouth
+Sherry
+Orange bitters
+
+# Cocktail #1940
+Gin
+Jus de citron
+Sucre
+Orange
+Maraschino cherry
+
+# Cocktail #1941
+Rhum léger
+Triple sec
+Jus de citron vert
+Sucre
+Blanc d'oeuf
+Menthe
+
+# Cocktail #1942
+Vodka
+Sucre
+
+# Cocktail #1943
+Brandy
+White Creme de Menthe
+
+# Cocktail #1944
+Vodka
+Grenadine
+Jus de citron vert
+Sucre
+Cerise
+
+# Cocktail #1945
+Absolut Citron
+Orange Curacao
+Strawberry liqueur
+Jus d'orange
+
+# Cocktail #1946
+Apricot brandy
+Apple brandy
+Gin
+
+# Cocktail #1947
+Kahlua
+Sambuca
+Bailey's irish cream
+
+# Cocktail #1948
+Gin
+Grenadine
+Citron
+Blanc d'oeuf
+Eau pétillante
+
+# Cocktail #1949
+Vodka
+Amaretto
+
+# Cocktail #1950
+Vodka
+Coffee liqueur
+Crème légère
+
+# Cocktail #1951
+Vodka
+Half-and-half
+Limeade
+Glaçons
+Noix de muscade
+
+# Cocktail #1952
+Rhum léger
+Ananas
+Jus de citron vert
+Sucre
+Cerise
+
+# Cocktail #1953
+Vodka
+Southern Comfort
+Passion fruit syrup
+Sweet and sour
+Eau pétillante
+
+# Cocktail #1954
+Tequila
+Jus de tomate
+Jus de citron
+Tabasco sauce
+Sel de celeri
+Citron
+
+# Cocktail #1955
+Vodka
+Southern Comfort
+Passion fruit syrup
+Sweet and sour
+Eau pétillante
+Cerise
+
+# Cocktail #1956
+Vodka
+Amaretto
+Sloe gin
+Triple sec
+Jus de cranberry
+
+# Cocktail #1957
+Sweet Vermouth
+Gin
+
+# Cocktail #1958
+Rhum
+Galliano
+Jus d'ananas
+Jus de citron vert
+Prosecco
+
+# Cocktail #1959
+Amaretto
+White Creme de Menthe
+
+# Cocktail #1960
+Rhum
+Vodka
+Tequila
+Triple sec
+Jus de citron
+
+# Cocktail #1961
+Kahlua
+Midori melon liqueur
+Bailey's irish cream
+
+# Cocktail #1962
+Kahlua
+Crème de whisky
+Amaretto
+Rhum ambré 151 Proof
+Crème
+
+# Cocktail #1963
+Gin
+Jus de citron
+Sucre
+Glaçons
+
+# Cocktail #1964
+Vodka
+Rhum Malibu
+Gold tequila
+Jus d'orange
+Jus d'ananas
+Cream of coconut
+Grenadine
+Glaçons
+Ananas
+
+# Cocktail #1965
+Absolut Citron
+Jus de citron vert
+Glaçons
+Tonic water
+
+# Cocktail #1966
+Gin
+Grenadine
+Citron
+Eau pétillante
+Citron vert
+
+# Cocktail #1967
+Gin
+Triple sec
+Chambord raspberry liqueur
+Midori melon liqueur
+Rhum Malibu
+Amaretto
+Jus de cranberry
+
+# Cocktail #1968
+Scotch
+Sweet Vermouth
+Bitters
+Sugar syrup
+
+# Cocktail #1969
+Vodka
+Jus de citron vert
+Ginger ale
+
+# Cocktail #1970
+Kahlua
+Sambuca
+
+# Cocktail #1971
+Rhum léger
+Triple sec
+Banana
+Jus de citron vert
+Sucre
+Cerise
+Glaçons
+
+# Cocktail #1972
+Vodka
+Creme de Banane
+Jus d'orange
+
+# Cocktail #1973
+Rhum léger
+Triple sec
+Jus de citron vert
+
+# Cocktail #1974
+Gin
+Citron
+Sucre en poudre
+Eau pétillante
+
+# Cocktail #1975
+Gin
+Vermouth
+
+# Cocktail #1976
+Rhum léger
+Cherry brandy
+Crème légère
+
+# Cocktail #1977
+Amaretto
+Vodka
+Rhum ambré 151 Proof
+Dr. Pepper
+Bière
+
+# Cocktail #1978
+Café
+Peach schnapps
+
+# Cocktail #1979
+Rhum brun
+Vodka
+Triple sec
+Jus de citron vert
+Sucre
+Sugar syrup
+Eau pétillante
+
+# Cocktail #1980
+Absolut Vodka
+Iced tea
+
+# Cocktail #1981
+Rhum léger
+Porto
+Citron
+Sucre en poudre
+Blanc d'oeuf
+Eau pétillante
+
+# Cocktail #1982
+Tequila
+Jus de citron vert
+Agave syrup
+
+# Cocktail #1983
+Amaretto
+Citron vert
+
+# Cocktail #1984
+Gin
+Jus de citron
+Maraschino liqueur
+Orange bitters
+
+# Cocktail #1985
+Gin
+Triple sec
+Chambord raspberry liqueur
+Midori melon liqueur
+Rhum Malibu
+Amaretto
+Jus de cranberry
+Jus d'ananas
+
+# Cocktail #1986
+Glaçons
+Tennessee whiskey
+Vanilla extract
+Coca-Cola
+
+# Cocktail #1987
+Vodka
+Kahlua
+Sugar syrup
+
+# Cocktail #1988
+Midori melon liqueur
+Zima
+
+# Cocktail #1989
+Vodka
+Creme de Banane
+Grenadine
+Jus d'orange
+Sour mix
+
+# Cocktail #1990
+Amaretto
+Creme de Cacao
+Crème légère
+Noix de muscade
+
+# Cocktail #1991
+Apricot brandy
+Jus d'orange
+Orange bitters
+
+# Cocktail #1992
+Kahlua
+Crème de whisky
+Amaretto
+Rhum ambré 151 Proof
+Crème
+
+# Cocktail #1993
+Brandy
+Triple sec
+Citron vert
+
+# Cocktail #1994
+Rhum brun
+Kahlua
+Blanc d'oeuf
+
+# Cocktail #1995
+Rhum léger
+Porto
+Citron
+Sucre en poudre
+Cerise
+Citron
+
+# Cocktail #1996
+Gin
+Citron
+Sucre en poudre
+Cerise
+Citron
+
+# Cocktail #1997
+Vodka
+Kahlua
+Coca-Cola
+Guinness stout
+
+# Cocktail #1998
+Gin
+Grenadine
+Citron
+Eau pétillante
+Citron vert
+
+# Cocktail #1999
+Rhum léger
+Citron vert
+Coca-Cola
+
